@@ -13,7 +13,7 @@
 	<header class="header">
 		<div class="container">
 			<nav class="row justify-content-between align-items-center">
-				<div class="img-brand col-12 col-md-3">
+				<div class="img-brand col-12 col-md-2">
 					<img src="img/logo.png" alt="" class="img-fluid">
 				</div>
 				<div class="col-12 col-md-6">
@@ -104,12 +104,37 @@
 				</div>
 				<div class="col-12 col-md-6">
 					<div class="item-service">
-						<div class="label-service bg_yellow">
-							<h3 class="color_green">Crédito por libranza para empleados públicos</h3>
+						<div class="label-service bg_green">
+							<h3 class="color_yellow">Crédito por libranza para empleados públicos</h3>
 						</div>
-						<img src="img/pensionados.jpeg" alt="" class="img-fluid">
+						<img src="img/empleados.jpeg" alt="" class="img-fluid">
 						<div class="container-button">
-							<a href="#" class="btn btn-primary">ir al servicio</a>
+							<a href="#" class="btn btn-secondary">ir al servicio</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="nuestro-blog" class="section section-photo">
+		<div class="container">
+			<div class="row text-center justify-content-center align-items-center">
+				<div class="col-12 container-float">
+					<h2 class="title burbuja title-float"><span class="color_yellow small-text">Nuestro</span><br><span class="color_green">blog</span></h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="grid-blog">
+						<div class="item-grid">
+							
+						</div>
+						<div class="item-grid">
+							
+						</div>
+						<div class="item-grid">
+							
 						</div>
 					</div>
 				</div>
