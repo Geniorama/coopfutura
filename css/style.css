@@ -1,0 +1,170 @@
+/*Estilos Generales*/
+body {
+	font-size: 12pt;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Roboto', sans-serif !important;
+	font-weight: bold !important;
+}
+
+.color_green {
+	color: #044B17;
+}
+
+.bg_green{
+	background: #044B17;
+}
+
+.color_yellow {
+	color: #E2B80F;
+}
+
+.bg_yellow{
+	background: #E2B80F;
+}
+
+.burbuja {
+	border-radius: 100px;
+	background: #fff;
+	padding: .2em .5em;
+	max-width: 400px;
+}
+
+.container-float {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.title-float {
+	position: absolute;
+	z-index: 2;
+	bottom: 30px;
+	width: 100%;
+	margin: auto;
+	
+}
+
+.title {
+	text-transform: uppercase;
+	font-size: 3rem;
+}
+
+
+.small-text {
+	font-size: 1.5rem;
+}
+
+.section {
+	padding: 6rem 0;
+}
+
+.section-gray {
+	background: #F2F2F2;
+}
+
+.section p{
+	color: #7E7E7E;
+	margin: 2rem 0;
+}
+
+/*header*/
+.header {
+	padding: 1em 0;
+	-webkit-box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
+	-moz-box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
+	box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 3;
+	background: #fff;
+}
+
+.header .nav a{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	color: #044B17;
+	font-size: 1.1rem;
+}
+
+.header .nav a:hover{
+	color: #E2B80F;
+}
+
+.navbar-brand img {
+	max-width: 200px;
+}
+
+/*slider home*/
+
+.slider-home .owl-carousel .item-owl img{
+	object-fit: cover;
+	max-height: 800px;
+}
+
+.slider-home .owl-carousel .owl-nav{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 0 .5em;
+	width: 100%;
+	color: #fff;
+	font-size: 6rem;
+
+}
+
+.slider-home .owl-carousel .owl-nav .owl-next {
+	float: right;
+}
+
+.slider-home .owl-carousel .owl-nav .owl-prev {
+	float: left;
+}
+
+.slider-home .owl-carousel .owl-dots {
+	position: absolute;
+	left: 3em;
+	top: 50%;
+	transform: rotate(90deg);
+	
+}
+
+.slider-home .owl-carousel .owl-dots .owl-dot {
+	width: 10px;
+	height: 10px;
+	border: 1px solid;
+	border-color: #fff;
+	border-radius: 100%;
+	margin: .5em;
+}
+
+.slider-home .owl-carousel .owl-dots .owl-dot.active{
+	background: #fff;
+	border-color: #044B17;
+}
+
+/*quienes somos*/
+.card-skills {
+	padding: 2rem;
+	-webkit-box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
+	-moz-box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
+	box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
+}
+
+.card-skills img{
+	width: 70%;
+}
+
+.card-skills p {
+	margin: 0;
+}
+
+/*nuestros servicios*/
+
+#nuestros-servicios {
+	margin-top: 3rem;
+}
+
