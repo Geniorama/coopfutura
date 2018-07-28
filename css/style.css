@@ -340,6 +340,7 @@ a:hover{
 	padding: .5rem 1rem;
 	background: rgba(242, 242, 242, .7);
 	width: 100%;
+	font-family: 'Roboto', sans-serif;
 }
 
 .title-card-blog a{
@@ -362,6 +363,7 @@ a:hover{
 	color: #044B17;
 	font-weight: bold;
 	line-height: 1.3rem;
+	font-family: 'Roboto', sans-serif;
 }
 
 .datetime .month, .datetime .year{
