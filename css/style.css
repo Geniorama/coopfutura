@@ -191,6 +191,7 @@ a:hover{
 	float: left;
 }
 
+
 .slider-home .owl-carousel .owl-dots {
 	position: absolute;
 	left: 3em;
@@ -199,7 +200,7 @@ a:hover{
 	
 }
 
-.slider-home .owl-carousel .owl-dots .owl-dot {
+.owl-carousel .owl-dots .owl-dot {
 	width: 10px;
 	height: 10px;
 	border: 1px solid;
@@ -208,7 +209,7 @@ a:hover{
 	margin: .5em;
 }
 
-.slider-home .owl-carousel .owl-dots .owl-dot.active{
+.owl-carousel .owl-dots .owl-dot.active{
 	background: #fff;
 	border-color: #044B17;
 }
@@ -297,11 +298,12 @@ a:hover{
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
 	grid-template-rows: 1fr;
-	height: 500px;
+	height: 100%;
 	grid-gap: 1rem;
 	width: 100%;
 	margin-top: 3rem;
 	position: relative;
+	padding: 2rem;
 }
 
 
@@ -310,6 +312,8 @@ a:hover{
 	-webkit-box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
 	-moz-box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
 	box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
+	padding-bottom: 2rem;
+
 }
 
 .card-blog p{
@@ -373,6 +377,34 @@ a:hover{
 
 .datetime .day{
 	font-size: 2rem;
+}
+
+.owl-nuestro-blog .owl-nav{
+	position: absolute;
+	top: 45%;
+	width: 100%;
+	font-size: 5rem;
+}
+
+.owl-nuestro-blog .owl-nav .owl-prev {
+	float: left;
+}
+
+.owl-nuestro-blog .owl-nav .owl-next {
+	float: right;
+}
+
+.owl-nuestro-blog .owl-dots {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding-top: 2rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	
 }
 
 

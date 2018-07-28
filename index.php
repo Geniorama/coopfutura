@@ -125,82 +125,173 @@
 				</div>
 			</div>
 			
-			<div class="grid-blog">
-				<div class="item-grid card-blog">
-					<div class="row">
-						<div class="col-12 text-center">
-							<div class="image-block">
-								<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-								<span class="label-yellow">Categoría</span>
-								<div class="title-card-blog">
-									<div class="row">
-										<div class="col-12 text-left">
-											<a href="#">Título del blog</a>	
-										</div>
-									</div>
-								</div>
-								<div class="datetime">
-									<span class="month">May</span><br>
-									<span class="day">24</span><br>
-									<span class="year">2018</span>
-								</div>
-							</div>
-							<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-							<a href="#" class="btn btn-primary">Leer blog</a>
-						</div>
-					</div>		
-				</div>
-				
-				<div class="item-grid card-blog">
-					<div class="row">
-						<div class="col-12 text-center">
-							<div class="image-block">
-								<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-								<span class="label-yellow">Categoría</span>
-								<div class="title-card-blog">
-									<div class="row">
-										<div class="col-12 text-left">
-											<a href="#">Título del blog</a>	
-										</div>
-									</div>
-								</div>
-								<div class="datetime">
-									<span class="month">May</span><br>
-									<span class="day">24</span><br>
-									<span class="year">2018</span>
-								</div>
-							</div>
-							<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-							<a href="#" class="btn btn-primary">Leer blog</a>
-						</div>
-					</div>		
-				</div>
+			<div class="row">
+				<div class="col-12">
+					<!--OWL CAROUSEL-->
+					<div class="owl-carousel owl-nuestro-blog">
 
-				<div class="item-grid card-blog">
-					<div class="row">
-						<div class="col-12 text-center">
-							<div class="image-block">
-								<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-								<span class="label-yellow">Categoría</span>
-								<div class="title-card-blog">
-									<div class="row">
-										<div class="col-12 text-left">
-											<a href="#">Título del blog</a>	
+						<!--START ITEM CAROUSEL-->
+						<div class="grid-blog">
+							<div class="item-grid card-blog">
+								<div class="row">
+									<div class="col-12 text-center">
+										<div class="image-block">
+											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+											<span class="label-yellow">Categoría</span>
+											<div class="title-card-blog">
+												<div class="row">
+													<div class="col-12 text-left">
+														<a href="#">Título del blog</a>	
+													</div>
+												</div>
+											</div>
+											<div class="datetime">
+												<span class="month">May</span><br>
+												<span class="day">24</span><br>
+												<span class="year">2018</span>
+											</div>
 										</div>
+										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+										<a href="#" class="btn btn-primary">Leer blog</a>
 									</div>
-								</div>
-								<div class="datetime">
-									<span class="month">May</span><br>
-									<span class="day">24</span><br>
-									<span class="year">2018</span>
-								</div>
+								</div>		
 							</div>
-							<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-							<a href="#" class="btn btn-primary">Leer blog</a>
+							
+							<div class="item-grid card-blog">
+								<div class="row">
+									<div class="col-12 text-center">
+										<div class="image-block">
+											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+											<span class="label-yellow">Categoría</span>
+											<div class="title-card-blog">
+												<div class="row">
+													<div class="col-12 text-left">
+														<a href="#">Título del blog</a>	
+													</div>
+												</div>
+											</div>
+											<div class="datetime">
+												<span class="month">May</span><br>
+												<span class="day">24</span><br>
+												<span class="year">2018</span>
+											</div>
+										</div>
+										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+										<a href="#" class="btn btn-primary">Leer blog</a>
+									</div>
+								</div>		
+							</div>
+
+							<div class="item-grid card-blog">
+								<div class="row">
+									<div class="col-12 text-center">
+										<div class="image-block">
+											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+											<span class="label-yellow">Categoría</span>
+											<div class="title-card-blog">
+												<div class="row">
+													<div class="col-12 text-left">
+														<a href="#">Título del blog</a>	
+													</div>
+												</div>
+											</div>
+											<div class="datetime">
+												<span class="month">May</span><br>
+												<span class="day">24</span><br>
+												<span class="year">2018</span>
+											</div>
+										</div>
+										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+										<a href="#" class="btn btn-primary">Leer blog</a>
+									</div>
+								</div>		
+							</div>
 						</div>
-					</div>		
+						<!--END ITEM CAROUSEL-->
+
+						<!--START ITEM CAROUSEL-->
+						<div class="grid-blog">
+							<div class="item-grid card-blog">
+								<div class="row">
+									<div class="col-12 text-center">
+										<div class="image-block">
+											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+											<span class="label-yellow">Categoría</span>
+											<div class="title-card-blog">
+												<div class="row">
+													<div class="col-12 text-left">
+														<a href="#">Título del blog</a>	
+													</div>
+												</div>
+											</div>
+											<div class="datetime">
+												<span class="month">May</span><br>
+												<span class="day">24</span><br>
+												<span class="year">2018</span>
+											</div>
+										</div>
+										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+										<a href="#" class="btn btn-primary">Leer blog</a>
+									</div>
+								</div>		
+							</div>
+							
+							<div class="item-grid card-blog">
+								<div class="row">
+									<div class="col-12 text-center">
+										<div class="image-block">
+											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+											<span class="label-yellow">Categoría</span>
+											<div class="title-card-blog">
+												<div class="row">
+													<div class="col-12 text-left">
+														<a href="#">Título del blog</a>	
+													</div>
+												</div>
+											</div>
+											<div class="datetime">
+												<span class="month">May</span><br>
+												<span class="day">24</span><br>
+												<span class="year">2018</span>
+											</div>
+										</div>
+										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+										<a href="#" class="btn btn-primary">Leer blog</a>
+									</div>
+								</div>		
+							</div>
+
+							<div class="item-grid card-blog">
+								<div class="row">
+									<div class="col-12 text-center">
+										<div class="image-block">
+											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+											<span class="label-yellow">Categoría</span>
+											<div class="title-card-blog">
+												<div class="row">
+													<div class="col-12 text-left">
+														<a href="#">Título del blog</a>	
+													</div>
+												</div>
+											</div>
+											<div class="datetime">
+												<span class="month">May</span><br>
+												<span class="day">24</span><br>
+												<span class="year">2018</span>
+											</div>
+										</div>
+										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+										<a href="#" class="btn btn-primary">Leer blog</a>
+									</div>
+								</div>		
+							</div>
+						</div>
+						<!--END ITEM CAROUSEL-->
+					</div>
+					<!--END OWL CAROUSEL-->
 				</div>
 			</div>
+			
 			
 		</div>
 	</section>
