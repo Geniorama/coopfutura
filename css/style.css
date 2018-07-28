@@ -24,6 +24,38 @@ h1, h2, h3, h4, h5 {
 	background: #E2B80F;
 }
 
+.btn {
+	border-radius: 50px !important;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	padding: 1rem 2rem !important;
+	position: relative;
+}
+
+.btn.btn-primary {
+	background: #044B17 !important;
+	border-color: #044B17 !important;
+}
+
+.btn.btn-primary:hover {
+	background: #043B13 !important;
+	border-color: #043B13 !important;
+}
+
+.btn.btn-primary:before{
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 110%;
+	border: 1px solid #044B17;
+	transform: scale(1.1);
+	top: 0;
+	left: 0;
+	border-radius: 50px;
+	margin: auto;
+
+}
+
 .burbuja {
 	border-radius: 100px;
 	background: #fff;
@@ -160,11 +192,48 @@ h1, h2, h3, h4, h5 {
 
 .card-skills p {
 	margin: 0;
+	font-size: 1.1rem;
+	font-weight: bold;
+	color: #505050;
 }
 
 /*nuestros servicios*/
 
 #nuestros-servicios {
 	margin-top: 3rem;
+}
+
+.item-service {
+	height: 500px;
+	margin-top: 3rem;
+	position: relative;
+}
+
+.item-service img {
+	height: 100%;
+	object-fit: cover;
+	
+}
+
+.label-service {
+	position: absolute;
+	width: 100%;
+	padding: 2rem;
+}
+
+.label-service.bg_yellow{
+	background: rgba(226, 184, 15, .8);
+}
+
+.container-button {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.item-service .btn{
+	position: absolute;
+	bottom: 35%;
 }
 

@@ -90,15 +90,27 @@
 					<h2 class="title burbuja title-float"><span class="color_yellow small-text">Nuestros</span><br><span class="color_green">servicios</span></h2>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row text-center">
 				<div class="col-12 col-md-6">
 					<div class="item-service">
+						<div class="label-service bg_yellow">
+							<h3 class="color_green">Crédito por libranza para pensionados</h3>
+						</div>
 						<img src="img/pensionados.jpeg" alt="" class="img-fluid">
+						<div class="container-button">
+							<a href="#" class="btn btn-primary">ir al servicio</a>
+						</div>
 					</div>
 				</div>
 				<div class="col-12 col-md-6">
 					<div class="item-service">
+						<div class="label-service bg_yellow">
+							<h3 class="color_green">Crédito por libranza para empleados públicos</h3>
+						</div>
 						<img src="img/pensionados.jpeg" alt="" class="img-fluid">
+						<div class="container-button">
+							<a href="#" class="btn btn-primary">ir al servicio</a>
+						</div>
 					</div>
 				</div>
 			</div>
