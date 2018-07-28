@@ -124,21 +124,84 @@
 					<h2 class="title burbuja title-float"><span class="color_yellow small-text">Nuestro</span><br><span class="color_green">blog</span></h2>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-xs-12">
-					<div class="grid-blog">
-						<div class="item-grid">
-							
+			
+			<div class="grid-blog">
+				<div class="item-grid card-blog">
+					<div class="row">
+						<div class="col-12 text-center">
+							<div class="image-block">
+								<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+								<span class="label-yellow">Categoría</span>
+								<div class="title-card-blog">
+									<div class="row">
+										<div class="col-12 text-left">
+											<a href="#">Título del blog</a>	
+										</div>
+									</div>
+								</div>
+								<div class="datetime">
+									<span class="month">May</span><br>
+									<span class="day">24</span><br>
+									<span class="year">2018</span>
+								</div>
+							</div>
+							<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+							<a href="#" class="btn btn-primary">Leer blog</a>
 						</div>
-						<div class="item-grid">
-							
+					</div>		
+				</div>
+				
+				<div class="item-grid card-blog">
+					<div class="row">
+						<div class="col-12 text-center">
+							<div class="image-block">
+								<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+								<span class="label-yellow">Categoría</span>
+								<div class="title-card-blog">
+									<div class="row">
+										<div class="col-12 text-left">
+											<a href="#">Título del blog</a>	
+										</div>
+									</div>
+								</div>
+								<div class="datetime">
+									<span class="month">May</span><br>
+									<span class="day">24</span><br>
+									<span class="year">2018</span>
+								</div>
+							</div>
+							<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+							<a href="#" class="btn btn-primary">Leer blog</a>
 						</div>
-						<div class="item-grid">
-							
+					</div>		
+				</div>
+
+				<div class="item-grid card-blog">
+					<div class="row">
+						<div class="col-12 text-center">
+							<div class="image-block">
+								<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+								<span class="label-yellow">Categoría</span>
+								<div class="title-card-blog">
+									<div class="row">
+										<div class="col-12 text-left">
+											<a href="#">Título del blog</a>	
+										</div>
+									</div>
+								</div>
+								<div class="datetime">
+									<span class="month">May</span><br>
+									<span class="day">24</span><br>
+									<span class="year">2018</span>
+								</div>
+							</div>
+							<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+							<a href="#" class="btn btn-primary">Leer blog</a>
 						</div>
-					</div>
+					</div>		
 				</div>
 			</div>
+			
 		</div>
 	</section>
 	

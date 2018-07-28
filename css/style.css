@@ -9,6 +9,10 @@ h1, h2, h3, h4, h5 {
 	font-weight: bold !important;
 }
 
+a:hover{
+	text-decoration: none !important;
+}
+
 .color_green {
 	color: #044B17;
 }
@@ -287,6 +291,86 @@ h1, h2, h3, h4, h5 {
 	background: rgba(226, 184, 15, .3);
 	top: 0;
 	left: 0;
+}
+
+.grid-blog {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: 1fr;
+	height: 500px;
+	grid-gap: 1rem;
+	width: 100%;
+	margin-top: 3rem;
+	position: relative;
+}
+
+
+.card-blog{
+	background: #fff;
+	-webkit-box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
+	-moz-box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
+	box-shadow: -1px 11px 15px -7px rgba(0,0,0,0.34);
+}
+
+.card-blog p{
+	padding: 0 2rem;
+}
+
+.card-blog .image-block {
+	position: relative;
+}
+
+
+.label-yellow{
+	color: #044B17;
+	background: #E2B80F;
+	padding: .5rem 1rem;
+	border-radius: 50px;
+	font-weight: 500;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 1rem;
+}
+
+.title-card-blog{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: .5rem 1rem;
+	background: rgba(242, 242, 242, .7);
+	width: 100%;
+}
+
+.title-card-blog a{
+	color: #044B17;
+	font-size: 1.3rem;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+
+.title-card-blog a:hover{
+	color: #E2B80F;
+}
+
+.card-blog .datetime {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: .5rem;
+	background: #fff;
+	color: #044B17;
+	font-weight: bold;
+	line-height: 1.3rem;
+}
+
+.datetime .month, .datetime .year{
+	font-size: .7rem;
+
+}
+
+.datetime .day{
+	font-size: 2rem;
 }
 
 
