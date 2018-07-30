@@ -13,6 +13,10 @@ a:hover{
 	text-decoration: none !important;
 }
 
+.tab_active {
+	background: #E2B80F !important;
+}
+
 .color_green {
 	color: #044B17;
 }
@@ -622,6 +626,48 @@ a:hover{
 
 .accordion .card {
 	border: none;
+}
+
+/*collapse*/
+
+.nav-tabs .nav-item{
+	background: #044B17;
+	border-color: #044B17;
+	color: #fff;
+	margin-bottom: 1rem !important;
+	border-radius: 50px;
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	padding: .5rem 1rem;
+	transition: all .5s;
+	cursor: pointer;
+}
+
+.nav-tabs .nav-item .div_image{
+	width: 15%;
+}
+
+.nav-tabs .nav-item .div_link a{
+	color: #fff;
+	text-transform: uppercase;
+	margin-left: 1rem;
+}
+
+.nav-tabs .nav-item .nav-link:hover{
+	border: none;
+}
+
+.nav-tabs .nav-item:hover{
+	background: #E2B80F;
+}
+
+.card.card_services {
+	display: none;
+}
+
+#seguro_de_vida{
+	display: block;
 }
 
 /*Float buttons*/
