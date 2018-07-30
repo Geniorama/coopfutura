@@ -20,7 +20,7 @@
 			<div class="row">
 				<div class="col-12 col-md-6">
 					<h2 class="title"><span class="color_yellow small-text">¿Quiénes</span><br><span class="color_green">somos?</span></h2>
-					<p>COOPFUTURA.  Somos una cooperativa que  presta servicios financieros con calidad y eficiencia, satisfaciendo las necesidades de nuestros asociados a través de un talento humano con principios, valores y un empuje tecnológico que permite el mejoramiento continuo de los procesos, garantizando con esto la calidad y  transparencia en el mercado. 
+					<p><strong>COOPFUTURA</strong>.  Somos una cooperativa que  presta servicios financieros con calidad y eficiencia, satisfaciendo las necesidades de nuestros asociados a través de un talento humano con principios, valores y un empuje tecnológico que permite el mejoramiento continuo de los procesos, garantizando con esto la calidad y  transparencia en el mercado. 
 					</p>
 				</div>
 				<div class="col-12 col-md-6">

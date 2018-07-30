@@ -15,7 +15,7 @@
 				</div>
 				<div class="col-12 col-md-6">
 					<ul class="nav justify-content-end">
-						<li class="nav-item"><a href="#" class="nav-link">Inicio</a></li>
+						<li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
 						<li class="nav-item"><a href="#" class="nav-link">¿Quiénes somos?</a></li>
 						<li class="nav-item"><a href="#" class="nav-link">Servicios</a></li>
 						<li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
@@ -27,4 +27,24 @@
 	</header>
 	<div class="back-to-top">
 		<a href="#"><img src="img/up-arrow(1).png" alt="" class="img-fluid"></a>
+	</div>
+	<div class="float-buttons">
+		<ul>
+			<li>
+				<div class="img_left">
+					<a href="#"><img src="img/mail-black-envelope-symbol.png" alt="" class="img-fluid"></a>
+				</div>
+				<div class="text_right">
+					<a href="#">Envíanos un mensaje</a>	
+				</div>
+			</li>
+			<li>
+				<div class="img_left">
+					<a href="#"><img src="img/office-worker-outline.png" alt="" class="img-fluid"></a>
+				</div>
+				<div class="text_right">
+					<a href="#">Trabaja con nosotros</a>	
+				</div>
+			</li>
+		</ul>
 	</div>

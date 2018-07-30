@@ -144,6 +144,7 @@ a:hover{
 .section p{
 	color: #7E7E7E;
 	margin: 2rem 0;
+	line-height: 1.8rem;
 }
 
 .form-control {
@@ -531,7 +532,7 @@ a:hover{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	z-index: 3;
+	z-index: 1;
 }
 
 .back-to-top img{
@@ -542,7 +543,7 @@ a:hover{
 /*Secciones servicios*/
 
 .header-services {
-	height: 300px;
+	height: 330px;
 	position: relative;
 }
 
@@ -555,7 +556,7 @@ a:hover{
 }
 
 .header-services .title-float {
-	z-index: 5;
+	
 	bottom: 0;
 }
 
@@ -564,7 +565,7 @@ a:hover{
 }
 
 #header_pensionados{
-	background-image: url(../img/pensionados.jpeg);
+	background-image: url(../img/pensionados-full.jpeg);
 	background-position: center;
 }
 
@@ -587,14 +588,21 @@ a:hover{
 
 .accordion .btn-link:hover {
 	text-decoration: none;
+	color: #fff;
+	background: #E2B80F;
 }
 
 .accordion .btn-link:before {
 	border-color: #044B17;
+	transform: scale(0);
+}
+
+.accordion .btn-link:visited{
+	text-decoration: none;
 }
 
 .accordion .btn-link:hover:before{
-	transform: scale(1);
+	transform: scale(0);
 } 
 
 .accordion .card-header{
@@ -605,8 +613,65 @@ a:hover{
 .accordion .card-body {
 	background: #F2F2F2;
 	padding: 2rem;
+	font-weight: bold;
+	color: #044B17;
+	width: 90%;
+	margin: auto;
+
 }
 
 .accordion .card {
 	border: none;
 }
+
+/*Float buttons*/
+
+.float-buttons {
+	position: fixed;
+	top: 30%;
+	right: 0;
+	z-index: 1;
+}
+
+.float-buttons ul {
+	list-style: none;
+}
+
+.float-buttons ul li{
+	background: #044B17;
+	margin: .5rem 0;
+	border-radius: 50px;
+	transition: all .5s;
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	transform: translateX(90%);
+	transition: all .5s;
+}
+
+.float-buttons ul li:hover{
+	transform: translateX(50%);
+}
+
+
+.float-buttons .img_left {
+	width: 12%;
+	padding: .5rem 1rem;
+}
+
+.float-buttons .text_right a{
+	color: #fff;
+	transition: all .5s;
+	font-weight: 500;
+}
+
+
+
+.float-buttons .text_right a:hover{
+	color: #E2B80F;
+}
+
+.float-buttons .nav-item:hover{
+	transform: translateX(50%);
+}
+
