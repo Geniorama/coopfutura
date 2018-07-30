@@ -1,34 +1,7 @@
 <!DOCTYPE html>
 <html lang="es_CO">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-	<title>Coopfutura</title>
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,700i" rel="stylesheet"> 
-</head>
-<body>
-	<header class="header">
-		<div class="container">
-			<nav class="row justify-content-between align-items-center">
-				<div class="img-brand col-12 col-md-2">
-					<img src="img/logo.png" alt="" class="img-fluid">
-				</div>
-				<div class="col-12 col-md-6">
-					<ul class="nav justify-content-end">
-						<li class="nav-item"><a href="#" class="nav-link">Inicio</a></li>
-						<li class="nav-item"><a href="#" class="nav-link">¿Quiénes somos?</a></li>
-						<li class="nav-item"><a href="#" class="nav-link">Servicios</a></li>
-						<li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
-						<li class="nav-item"><a href="#" class="nav-link">Contacto</a></li>
-					</ul>	
-				</div>
-			</nav>
-		</div>
-	</header>
-
+	<?php include 'header.php'; ?>
 	<section class="slider-home">
 		<div class="row">
 			<div class="col-12 owl-carousel owl-home">
@@ -47,7 +20,7 @@
 			<div class="row">
 				<div class="col-12 col-md-6">
 					<h2 class="title"><span class="color_yellow small-text">¿Quiénes</span><br><span class="color_green">somos?</span></h2>
-					<p>COOPFUTURA  Es una cooperativa que  presta servicios financieros con calidad y eficiencia, satisfaciendo las necesidades de nuestros asociados a través de un talento humano con principios, valores y un empuje tecnológico que permite el mejoramiento continuo de los procesos, garantizando con esto la calidad y  transparencia en el mercado. 
+					<p>COOPFUTURA.  Somos una cooperativa que  presta servicios financieros con calidad y eficiencia, satisfaciendo las necesidades de nuestros asociados a través de un talento humano con principios, valores y un empuje tecnológico que permite el mejoramiento continuo de los procesos, garantizando con esto la calidad y  transparencia en el mercado. 
 					</p>
 				</div>
 				<div class="col-12 col-md-6">
@@ -98,7 +71,7 @@
 						</div>
 						<img src="img/pensionados.jpeg" alt="" class="img-fluid">
 						<div class="container-button">
-							<a href="#" class="btn btn-primary">ir al servicio</a>
+							<a href="credito-pensionados.php" class="btn btn-primary">ir al servicio</a>
 						</div>
 					</div>
 				</div>
@@ -295,11 +268,65 @@
 			
 		</div>
 	</section>
-	
 
-	<script src="js/jquery-3.3.1.min.js"></script>
-	<script src="js/app.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/owl.carousel.min.js"></script>
-</body>
-</html>
+	<section id="contacto" class="section bg_image bg_opacity">
+		<div class="container">
+			<div class="row text-center justify-content-center align-items-center">
+				<div class="col-12 container-float">
+					<h2 class="title burbuja title-float"><span class="color_yellow small-text">Contáctanos</span><br><span class="color_green">Ahora</span></h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<div class="spaced"></div>
+				</div>
+			</div>
+			<div class="row justify-content-between align-items-center">
+				<div class="col-12 col-md-5">
+					<p>En <strong>COOPFUTURA</strong> estamos dispuestos a resolver todas tus inquietudes en el menor tiempo posible. Escríbenos en el siguiente formulario y a la mayor brevedad un agente se comunicará contigo.</p>
+				</div>
+				<div class="col-12 col-md-5">
+					<form action="" class="form_contact">
+						<div class="form-row">
+							<div class="form-group col-12">
+								<label for="nombre"><img src="img/man-user.png" alt=""><span class="line_separator">|</span></label>
+								<input type="text" class="form-control" name="nombre" placeholder="Nombre" id="nombre">
+							</div>
+							<div class="form-group col-6">
+								<label for="nombre"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
+								<input type="email" class="form-control" name="correo" placeholder="Correo">
+							</div>
+							<div class="form-group col-6">
+								<label for="nombre"><img src="img/icon.png" alt=""><span class="line_separator">|</span></label>
+								<input type="phone" class="form-control" name="nombre" placeholder="Teléfono">
+							</div>
+							<div class="form-group col-12">
+								<textarea name="" id="" class="form-control" placeholder="Mensaje"></textarea>
+							</div>
+							<div class="col-12 text-center">
+								<input type="submit" class="btn btn-secondary" value="ENVIAR">
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<div class="spaced"></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<ul class="nav justify-content-center align-items-center box-info">
+						<li class="nav-link">servicioalcliente@coopfuturagt.com</li>
+						<li class="bullet"></li>
+						<li class="nav-link">+57 (1) 3186342</li>
+						<li class="bullet"></li>
+						<li class="nav-link">Cra 123 # 20-45</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<?php include 'footer.php'; ?>

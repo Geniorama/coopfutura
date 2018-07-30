@@ -29,6 +29,16 @@ a:hover{
 	background: #E2B80F;
 }
 
+.bg_opacity:before{
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: rgba(49, 49, 49, .5);
+	top: 0;
+	left: 0;
+}
+
 .btn {
 	border-radius: 50px !important;
 	text-transform: uppercase;
@@ -136,6 +146,23 @@ a:hover{
 	margin: 2rem 0;
 }
 
+.form-control {
+	border-radius: 50px !important;
+	font-family: 'Roboto', sans-serif !important;
+	border: none !important;
+	padding: 1.1rem !important;
+}
+
+.form-control::placeholder {
+	color: #C9C9C9 !important;
+}
+
+.bg_image {
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
 /*header*/
 .header {
 	padding: 1em 0;
@@ -155,6 +182,7 @@ a:hover{
 	font-weight: 500;
 	color: #044B17;
 	font-size: 1.1rem;
+	transition: all .5s;
 }
 
 .header .nav a:hover{
@@ -166,6 +194,7 @@ a:hover{
 }
 
 /*slider home*/
+
 
 .slider-home .owl-carousel .item-owl img{
 	object-fit: cover;
@@ -381,7 +410,7 @@ a:hover{
 
 .owl-nuestro-blog .owl-nav{
 	position: absolute;
-	top: 45%;
+	top: 50%;
 	width: 100%;
 	font-size: 5rem;
 }
@@ -407,4 +436,177 @@ a:hover{
 	
 }
 
+/*Contacto*/
+#contacto {
+	margin-top: 7rem;
+	background-image: url('../img/contact.jpeg');
+	position: relative;
+}
 
+.spaced {
+	margin: 6rem;
+}
+
+#contacto p{
+	margin-top: 0;
+	color: #fff;
+	font-weight: 500;
+}
+
+.box-info{
+	color: #fff;
+}
+
+.box-info .bullet{
+	width: 15px;
+	height: 15px;
+	background: #E2B80F;
+	border-radius: 100%;
+}
+
+.form_contact label {
+	position: absolute;
+	margin-top: 1rem;
+	margin-left: 1rem;
+	color: #044B17 !important;
+}
+
+.form_contact label img {
+	width: 20px;
+	margin-right: .3rem;
+}
+
+
+.form_contact .form-control {
+	padding-left: 3rem !important;
+}
+
+.form-contact span.line_separator{
+	color: #044B17 !important;
+}
+
+/*Footer*/
+
+.footer_top{
+	background: #232323;
+}
+
+.footer_top h4{
+	text-transform: uppercase;
+}
+
+.footer_top .thumbnail_blog{
+	margin: 1rem 0;
+	transition: all .5s;
+}
+
+.footer_top .thumbnail_blog:hover{
+	opacity: .7;
+}
+
+.footer_bottom{
+	padding: 1rem;
+	background: #000;
+	color: #7E7E7E;
+}
+
+.footer_bottom a {
+	color: #fff;
+	transition: all .5s;
+}
+
+.footer_bottom a:hover{
+	color: #E2B80F;
+}
+
+.back-to-top{
+	width: 40px;
+	height: 40px;
+	background: rgba(0, 0, 0, .7);
+	position: fixed;
+	bottom: 6rem;
+	right: 10px;
+	padding: .9rem;
+	padding-bottom: 1rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	z-index: 3;
+}
+
+.back-to-top img{
+	margin: auto;
+}
+
+
+/*Secciones servicios*/
+
+.header-services {
+	height: 300px;
+	position: relative;
+}
+
+.header-services .title{
+	text-transform: capitalize;
+}
+
+.header-services .burbuja{
+	max-width: 500px;
+}
+
+.header-services .title-float {
+	z-index: 5;
+	bottom: 0;
+}
+
+.header-services .container-float{
+	padding-top: 20rem;
+}
+
+#header_pensionados{
+	background-image: url(../img/pensionados.jpeg);
+	background-position: center;
+}
+
+.padding_10 {
+	padding-top: 10rem;
+}
+
+/*accordion*/
+
+.accordion{
+	border: none;
+}
+
+.accordion .btn-link{
+	width: 100%;
+	background: #044B17;
+	border-color: #044B17;
+	color: #fff;
+}
+
+.accordion .btn-link:hover {
+	text-decoration: none;
+}
+
+.accordion .btn-link:before {
+	border-color: #044B17;
+}
+
+.accordion .btn-link:hover:before{
+	transform: scale(1);
+} 
+
+.accordion .card-header{
+	background: transparent;
+	border: none;
+}
+
+.accordion .card-body {
+	background: #F2F2F2;
+	padding: 2rem;
+}
+
+.accordion .card {
+	border: none;
+}
