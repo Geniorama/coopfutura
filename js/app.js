@@ -28,6 +28,6 @@ $(document).ready(function() {
 
 
 		$('.card.card_services').slideUp();
-		$('.card.card_services[id="'+service+'"]').slideDown('able');
+		$('.card.card_services[id="'+service+'"]').slideDown();
 	})
 });

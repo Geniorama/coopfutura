@@ -84,7 +84,7 @@
 		</div>
 	</section>
 
-	<section class="section nav-tabs">
+	<section class="section nav-tabs bg_image bg_opacity">
 		<div class="container">
 			<div class="row">
 				<div class="col-12 col-md-3">
@@ -142,7 +142,18 @@
 				</div>
 			</div>
 		</div>
-		
+	</section>
+	<section class="section" id="call_to_action">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-12 col-md-6">
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vel, illo. Natus tempora amet, odit perferendis! Eveniet veniam quos saepe debitis ratione! Repellat, a itaque aut doloribus officiis sunt, libero.</p>
+				</div>
+				<div class="col-12 col-md-6 text-center">
+					<a href="#" class="btn btn-secondary">Solicita tu crédito</a>
+				</div>
+			</div>
+		</div>
 	</section>
 
 	<section id="contacto" class="section bg_image bg_opacity">

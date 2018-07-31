@@ -103,6 +103,7 @@ a:hover{
 	border-radius: 100px;
 	background: #fff;
 	padding: 2rem;
+	padding-top: 1rem; 
 	max-width: 400px;
 }
 
@@ -115,7 +116,7 @@ a:hover{
 .title-float {
 	position: absolute;
 	z-index: 2;
-	bottom: 20px;
+	bottom: 0;
 	width: 100%;
 	margin: auto;
 	
@@ -133,6 +134,7 @@ a:hover{
 
 .section {
 	padding: 6rem 0;
+	padding-bottom: 8rem;
 }
 
 .section-gray {
@@ -269,10 +271,6 @@ a:hover{
 
 /*nuestros servicios*/
 
-#nuestros-servicios {
-	margin-top: 7rem;
-}
-
 .item-service {
 	height: 500px;
 	margin-top: 3rem;
@@ -314,7 +312,6 @@ a:hover{
 /*nuestro blog*/
 
 #nuestro-blog {
-	margin-top: 7rem;
 	background-image: url(../img/bg-blog.jpeg);
 }
 
@@ -443,7 +440,6 @@ a:hover{
 
 /*Contacto*/
 #contacto {
-	margin-top: 7rem;
 	background-image: url('../img/contact.jpeg');
 	position: relative;
 }
@@ -630,6 +626,11 @@ a:hover{
 
 /*collapse*/
 
+.nav-tabs {
+	background-image: url(../img/bg-tabs.jpeg);
+	position: relative;
+}
+
 .nav-tabs .nav-item{
 	background: #044B17;
 	border-color: #044B17;
@@ -719,5 +720,11 @@ a:hover{
 
 .float-buttons .nav-item:hover{
 	transform: translateX(50%);
+}
+
+/*LLamado a la acción*/
+
+#call_to_action{
+	background: #232323;
 }
 
