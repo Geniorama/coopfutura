@@ -29,6 +29,34 @@ a:hover{
 	color: #E2B80F;
 }
 
+
+.label_yellow {
+	background: #E2B80F;
+	border-radius: 50px;
+	padding: 1rem 2rem;
+	color: #044B17;
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+}
+
+.label_yellow .div_image{
+	width: 20%;
+}
+
+.div_text {
+	margin-left: 1rem;
+}
+
+.div_text h5{
+	font-size: 1rem;
+}
+
+.div_image{
+	width: 15%;
+}
+
+
 .bg_yellow{
 	background: #E2B80F;
 }
@@ -458,7 +486,7 @@ a:hover{
 	color: #fff;
 }
 
-.box-info .bullet{
+.bullet{
 	width: 15px;
 	height: 15px;
 	background: #E2B80F;
@@ -645,10 +673,6 @@ a:hover{
 	cursor: pointer;
 }
 
-.nav-tabs .nav-item .div_image{
-	width: 15%;
-}
-
 .nav-tabs .nav-item .div_link a{
 	color: #fff;
 	text-transform: uppercase;
@@ -665,11 +689,65 @@ a:hover{
 
 .card.card_services {
 	display: none;
+	max-height: 650px;
+	overflow-y: scroll;
+}
+
+.card_services::-webkit-scrollbar {
+      width: 8px;
+      border: none;
+} /* this targets the default scrollbar (compulsory) */
+
+.card_services::-webkit-scrollbar-track {
+      background-color: black;
+} /* the new scrollbar will have a flat appearance with the set background color */
+ 
+.card_services::-webkit-scrollbar-thumb {
+      background-color: rgba(255, 255, 255, 0.3);
+      border-radius: 50px;
+} /* this will style the thumb, ignoring the track */
+ 
+.card_services::-webkit-scrollbar-button {
+      background-color: #151515;
+} /* optionally, you can style the top and the bottom buttons (left and right for horizontal bars) */
+ 
+.card_services::-webkit-scrollbar-corner {
+      background-color: black;
+} /* if both the vertical and the horizontal bars appear, then perhaps the right bottom corner also needs to be styled */
+
+.card_services p{
+	padding: 0 1rem;
+
 }
 
 #seguro_de_vida{
 	display: block;
 }
+
+.card_list {
+	color: #7E7E7E;
+	margin: 0;
+	list-style: none;
+}
+
+.card_list li {
+	margin-bottom: 1rem;
+	position: relative;
+}
+
+.card_list li:before{
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 10px;
+	height: 10px;
+	background: #E2B80F;
+	border-radius: 100%;
+	margin-top: .5rem;
+	margin-left: -1rem;
+}
+
 
 /*Float buttons*/
 
@@ -678,13 +756,17 @@ a:hover{
 	top: 30%;
 	right: 0;
 	z-index: 1;
+	max-width: 300px;
+	transform: translateX(68%);
 }
 
 .float-buttons ul {
 	list-style: none;
+	
 }
 
 .float-buttons ul li{
+	width: 100%;
 	background: #044B17;
 	margin: .5rem 0;
 	border-radius: 50px;
@@ -692,18 +774,19 @@ a:hover{
 	display: flex;
 	flex-flow: row nowrap;
 	align-items: center;
-	transform: translateX(90%);
+	padding: .5rem 1rem;
 	transition: all .5s;
 }
 
 .float-buttons ul li:hover{
-	transform: translateX(50%);
+	transform: translateX(-60%);
 }
 
 
 .float-buttons .img_left {
-	width: 12%;
-	padding: .5rem 1rem;
+	width: 13%;
+	padding: 0rem .2rem;
+	margin-right: 1rem;
 }
 
 .float-buttons .text_right a{
@@ -727,4 +810,6 @@ a:hover{
 #call_to_action{
 	background: #232323;
 }
+
+
 
