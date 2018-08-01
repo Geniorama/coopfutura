@@ -2,7 +2,7 @@
 <html lang="es_CO">
 <head>
 	<?php include 'header.php'; ?>
-	<section class="slider-home">
+	<section class="slider-home" id="home">
 		<div class="row">
 			<div class="col-12 owl-carousel owl-home">
 				<div class="item-owl">
@@ -82,7 +82,7 @@
 						</div>
 						<img src="img/empleados.jpeg" alt="" class="img-fluid">
 						<div class="container-button">
-							<a href="#" class="btn btn-secondary">ir al servicio</a>
+							<a href="empleados-publicos.php" class="btn btn-secondary">ir al servicio</a>
 						</div>
 					</div>
 				</div>
@@ -293,12 +293,12 @@
 								<input type="text" class="form-control" name="nombre" placeholder="Nombre" id="nombre">
 							</div>
 							<div class="form-group col-6">
-								<label for="nombre"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
-								<input type="email" class="form-control" name="correo" placeholder="Correo">
+								<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
+								<input type="email" class="form-control" name="correo" placeholder="Correo" id="correo">
 							</div>
 							<div class="form-group col-6">
-								<label for="nombre"><img src="img/icon.png" alt=""><span class="line_separator">|</span></label>
-								<input type="phone" class="form-control" name="nombre" placeholder="Teléfono">
+								<label for="telefono"><img src="img/icon.png" alt=""><span class="line_separator">|</span></label>
+								<input type="phone" class="form-control" name="nombre" placeholder="Teléfono" id="telefono">
 							</div>
 							<div class="form-group col-12">
 								<textarea name="" id="" class="form-control" placeholder="Mensaje"></textarea>

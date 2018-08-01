@@ -3,11 +3,11 @@
 <head>
 	<?php include 'header.php'; ?>
 	<div id="home"></div>
-	<section class="section header-services bg_image" id="header_pensionados">
+	<section class="section header-services bg_image" id="header_empleados">
 		<div class="container">
 			<div class="row text-center justify-content-center align-items-center">
 				<div class="col-12 container-float">
-					<h2 class="title burbuja title-float"><span class="color_yellow small-text">Crédito por libranza para</span><br><span class="color_green">pensionados</span></h2>
+					<h2 class="title burbuja title-float"><span class="color_yellow small-text">Crédito por libranza para</span><br><span class="color_green">empleados públicos</span></h2>
 				</div>
 			</div>
 		</div>
@@ -17,7 +17,7 @@
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-12 col-md-5">
-					<p class="text_tall">Revisa las condiciones para acceder a nuestro servicio de <strong>Crédito por libranza para pensionados</strong></p>
+					<p class="text_tall">Revisa las condiciones para acceder a nuestro servicio de <strong>Crédito por libranza para empleados públicos</strong></p>
 				</div>
 				<div class="col-12 col-md-1">
 					<img src="img/up-arrow.png" alt="" class="img-fluid arrow_right">

@@ -53,5 +53,6 @@
 	<script src="js/app.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.smoothscroll.min.js"></script>
 </body>
 </html>

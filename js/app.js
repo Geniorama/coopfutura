@@ -29,5 +29,16 @@ $(document).ready(function() {
 
 		$('.card.card_services').slideUp();
 		$('.card.card_services[id="'+service+'"]').slideDown();
-	})
+	});
+
+	//Smoothscroll
+     $('html').smoothScroll();
+
+
+    //Menu
+
+    $('.header .nav-link').click(function() {
+    	$('.nav-link').removeClass('link_active');
+    	$(this).addClass('link_active');
+    })
 });

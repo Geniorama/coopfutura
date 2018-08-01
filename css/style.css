@@ -17,8 +17,17 @@ a:hover{
 	background: #E2B80F !important;
 }
 
+.link_active {
+	color: #E2B80F !important;
+}
+
 .color_green {
 	color: #044B17;
+}
+
+.text_tall{
+	font-size: 2rem;
+	line-height: 3rem !important;
 }
 
 .bg_green{
@@ -27,6 +36,10 @@ a:hover{
 
 .color_yellow {
 	color: #E2B80F;
+}
+
+.arrow_right{
+	transform: rotate(90deg);
 }
 
 
@@ -476,6 +489,10 @@ a:hover{
 	margin: 6rem;
 }
 
+.spaced_2{
+	margin: 2rem;
+}
+
 #contacto p{
 	margin-top: 0;
 	color: #fff;
@@ -561,6 +578,12 @@ a:hover{
 	justify-content: center;
 	align-items: center;
 	z-index: 1;
+	cursor: pointer;
+	transition: all .5s;
+}
+
+.back-to-top:hover{
+	background: rgba(0, 0, 0, .9);
 }
 
 .back-to-top img{
@@ -595,6 +618,11 @@ a:hover{
 #header_pensionados{
 	background-image: url(../img/pensionados-full.jpeg);
 	background-position: center;
+}
+
+#header_empleados{
+	background-image: url('../img/bg-empleados.jpeg');
+	background-position: bottom;
 }
 
 .padding_10 {
@@ -832,6 +860,54 @@ a:hover{
 
 #call_to_action{
 	background: #232323;
+}
+
+#call_to_action p {
+	color: #fff;
+}
+
+/*Blog*/
+
+.blog_float{
+	transform: translateY(-100px);
+	z-index: 2;
+}
+
+.blog_float .card-blog {
+	padding: 0;
+	transform: scale(.9);
+}
+
+.main_blog .card-blog{
+	padding: 0;
+	padding-bottom: 2rem;
+	margin-bottom: 2rem;
+}
+
+.menu_categories {
+	background: #f2f2f2;
+	padding: 1rem 0;
+}
+
+/*Sidebar*/
+
+.sidebar {
+	background: #f2f2f2;
+	padding: 2rem !important;
+}
+
+hr.separator {
+	margin: 3rem 0;
+}
+
+.sidebar .media img{
+	width: 50%;
+}
+
+.sidebar .media .datetime{
+	font-style: italic;
+	font-size: .9rem;
+	color: #959595;
 }
 
 
