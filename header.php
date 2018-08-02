@@ -10,8 +10,11 @@
 	<header class="header">
 		<div class="container">
 			<nav class="row justify-content-between align-items-center">
-				<div class="img-brand col-12 col-md-2">
-					<img src="img/logo.png" alt="" class="img-fluid">
+				<div class="img-brand col-8 col-md-2">
+					<a href="index.php"><img src="img/logo.png" alt="" class="img-fluid"></a>
+				</div>
+				<div class="btn_toggle col-3 d-md-none">
+					<img src="img/menu.png" alt="" class="img-fluid">
 				</div>
 				<div class="col-12 col-md-6">
 					<ul class="nav justify-content-end">
@@ -35,7 +38,7 @@
 					<a href="#"><img src="img/mail-black-envelope-symbol.png" alt="" class="img-fluid"></a>
 				</div>
 				<div class="text_right">
-					<a href="index.php#contacto">Envíanos un mensaje</a>	
+					<a href="#contacto">Envíanos un mensaje</a>	
 				</div>
 			</li>
 			<li>

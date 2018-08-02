@@ -27,26 +27,26 @@
 					<div class="row text-center">
 						<div class="col-12 col-md-6">
 							<div class="card-skills">
-								<img src="img/hand-shake.png" alt="" class="img-fluid">
-								<p>Experts</p>
+								<img src="img/team-work.png" alt="" class="img-fluid">
+								<p>Compromiso</p>
 							</div>
 						</div>
 						<div class="col-12 col-md-6">
 							<div class="card-skills">
 								<img src="img/hand-shake.png" alt="" class="img-fluid">
-								<p>Experts</p>
+								<p>Solidaridad</p>
 							</div>
 						</div>
 						<div class="col-12 col-md-6">
 							<div class="card-skills">
-								<img src="img/hand-shake.png" alt="" class="img-fluid">
-								<p>Experts</p>
+								<img src="img/man.png" alt="" class="img-fluid">
+								<p>Responsabilidad</p>
 							</div>
 						</div>
 						<div class="col-12 col-md-6">
 							<div class="card-skills">
-								<img src="img/hand-shake.png" alt="" class="img-fluid">
-								<p>Experts</p>
+								<img src="img/bullseye.png" alt="" class="img-fluid">
+								<p>Simplicidad</p>
 							</div>
 						</div>
 					</div>
@@ -104,161 +104,170 @@
 					<div class="owl-carousel owl-nuestro-blog">
 
 						<!--START ITEM CAROUSEL-->
-						<div class="grid-blog">
-							<div class="item-grid card-blog">
-								<div class="row">
-									<div class="col-12 text-center">
-										<div class="image-block">
-											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-											<span class="label-yellow">Categoría</span>
-											<div class="title-card-blog">
-												<div class="row">
-													<div class="col-12 text-left">
-														<a href="#">Título del blog</a>	
+							<div class="item-grid">
+								<div class="card-blog">
+									<div class="row">
+										<div class="col-12 text-center">
+											<div class="image-block">
+												<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+												<span class="label-yellow">Categoría</span>
+												<div class="title-card-blog">
+													<div class="row">
+														<div class="col-12 text-left">
+															<a href="#">Título del blog</a>	
+														</div>
 													</div>
 												</div>
+												<div class="datetime">
+													<span class="month">May</span><br>
+													<span class="day">24</span><br>
+													<span class="year">2018</span>
+												</div>
 											</div>
-											<div class="datetime">
-												<span class="month">May</span><br>
-												<span class="day">24</span><br>
-												<span class="year">2018</span>
-											</div>
+											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+											<a href="#" class="btn btn-primary">Leer blog</a>
 										</div>
-										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-										<a href="#" class="btn btn-primary">Leer blog</a>
-									</div>
-								</div>		
+									</div>		
+								</div>
 							</div>
 							
-							<div class="item-grid card-blog">
-								<div class="row">
-									<div class="col-12 text-center">
-										<div class="image-block">
-											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-											<span class="label-yellow">Categoría</span>
-											<div class="title-card-blog">
-												<div class="row">
-													<div class="col-12 text-left">
-														<a href="#">Título del blog</a>	
+							
+							<div class="item-grid">
+								<div class="card-blog">
+									<div class="row">
+										<div class="col-12 text-center">
+											<div class="image-block">
+												<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+												<span class="label-yellow">Categoría</span>
+												<div class="title-card-blog">
+													<div class="row">
+														<div class="col-12 text-left">
+															<a href="#">Título del blog</a>	
+														</div>
 													</div>
 												</div>
+												<div class="datetime">
+													<span class="month">May</span><br>
+													<span class="day">24</span><br>
+													<span class="year">2018</span>
+												</div>
 											</div>
-											<div class="datetime">
-												<span class="month">May</span><br>
-												<span class="day">24</span><br>
-												<span class="year">2018</span>
-											</div>
+											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+											<a href="#" class="btn btn-primary">Leer blog</a>
 										</div>
-										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-										<a href="#" class="btn btn-primary">Leer blog</a>
-									</div>
-								</div>		
+									</div>		
+								</div>
 							</div>
 
-							<div class="item-grid card-blog">
-								<div class="row">
-									<div class="col-12 text-center">
-										<div class="image-block">
-											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-											<span class="label-yellow">Categoría</span>
-											<div class="title-card-blog">
-												<div class="row">
-													<div class="col-12 text-left">
-														<a href="#">Título del blog</a>	
+							<div class="item-grid">
+								<div class="card-blog">
+									<div class="row">
+										<div class="col-12 text-center">
+											<div class="image-block">
+												<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+												<span class="label-yellow">Categoría</span>
+												<div class="title-card-blog">
+													<div class="row">
+														<div class="col-12 text-left">
+															<a href="#">Título del blog</a>	
+														</div>
 													</div>
 												</div>
+												<div class="datetime">
+													<span class="month">May</span><br>
+													<span class="day">24</span><br>
+													<span class="year">2018</span>
+												</div>
 											</div>
-											<div class="datetime">
-												<span class="month">May</span><br>
-												<span class="day">24</span><br>
-												<span class="year">2018</span>
-											</div>
+											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+											<a href="#" class="btn btn-primary">Leer blog</a>
 										</div>
-										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-										<a href="#" class="btn btn-primary">Leer blog</a>
-									</div>
-								</div>		
+									</div>		
+								</div>
 							</div>
-						</div>
 						<!--END ITEM CAROUSEL-->
 
 						<!--START ITEM CAROUSEL-->
-						<div class="grid-blog">
-							<div class="item-grid card-blog">
-								<div class="row">
-									<div class="col-12 text-center">
-										<div class="image-block">
-											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-											<span class="label-yellow">Categoría</span>
-											<div class="title-card-blog">
-												<div class="row">
-													<div class="col-12 text-left">
-														<a href="#">Título del blog</a>	
+							<div class="item-grid">
+								<div class="card-blog">
+									<div class="row">
+										<div class="col-12 text-center">
+											<div class="image-block">
+												<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+												<span class="label-yellow">Categoría</span>
+												<div class="title-card-blog">
+													<div class="row">
+														<div class="col-12 text-left">
+															<a href="#">Título del blog</a>	
+														</div>
 													</div>
 												</div>
+												<div class="datetime">
+													<span class="month">May</span><br>
+													<span class="day">24</span><br>
+													<span class="year">2018</span>
+												</div>
 											</div>
-											<div class="datetime">
-												<span class="month">May</span><br>
-												<span class="day">24</span><br>
-												<span class="year">2018</span>
-											</div>
+											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+											<a href="#" class="btn btn-primary">Leer blog</a>
 										</div>
-										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-										<a href="#" class="btn btn-primary">Leer blog</a>
-									</div>
-								</div>		
+									</div>		
+								</div>
 							</div>
 							
-							<div class="item-grid card-blog">
-								<div class="row">
-									<div class="col-12 text-center">
-										<div class="image-block">
-											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-											<span class="label-yellow">Categoría</span>
-											<div class="title-card-blog">
-												<div class="row">
-													<div class="col-12 text-left">
-														<a href="#">Título del blog</a>	
+							<div class="item-grid">
+								<div class="card-blog">
+									<div class="row">
+										<div class="col-12 text-center">
+											<div class="image-block">
+												<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+												<span class="label-yellow">Categoría</span>
+												<div class="title-card-blog">
+													<div class="row">
+														<div class="col-12 text-left">
+															<a href="#">Título del blog</a>	
+														</div>
 													</div>
 												</div>
+												<div class="datetime">
+													<span class="month">May</span><br>
+													<span class="day">24</span><br>
+													<span class="year">2018</span>
+												</div>
 											</div>
-											<div class="datetime">
-												<span class="month">May</span><br>
-												<span class="day">24</span><br>
-												<span class="year">2018</span>
-											</div>
+											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+											<a href="#" class="btn btn-primary">Leer blog</a>
 										</div>
-										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-										<a href="#" class="btn btn-primary">Leer blog</a>
-									</div>
-								</div>		
+									</div>		
+								</div>
 							</div>
 
-							<div class="item-grid card-blog">
-								<div class="row">
-									<div class="col-12 text-center">
-										<div class="image-block">
-											<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-											<span class="label-yellow">Categoría</span>
-											<div class="title-card-blog">
-												<div class="row">
-													<div class="col-12 text-left">
-														<a href="#">Título del blog</a>	
+							<div class="item-grid">
+								<div class="card-blog">
+									<div class="row">
+										<div class="col-12 text-center">
+											<div class="image-block">
+												<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
+												<span class="label-yellow">Categoría</span>
+												<div class="title-card-blog">
+													<div class="row">
+														<div class="col-12 text-left">
+															<a href="#">Título del blog</a>	
+														</div>
 													</div>
 												</div>
+												<div class="datetime">
+													<span class="month">May</span><br>
+													<span class="day">24</span><br>
+													<span class="year">2018</span>
+												</div>
 											</div>
-											<div class="datetime">
-												<span class="month">May</span><br>
-												<span class="day">24</span><br>
-												<span class="year">2018</span>
-											</div>
+											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
+											<a href="#" class="btn btn-primary">Leer blog</a>
 										</div>
-										<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-										<a href="#" class="btn btn-primary">Leer blog</a>
-									</div>
-								</div>		
+									</div>		
+								</div>
 							</div>
-						</div>
 						<!--END ITEM CAROUSEL-->
 					</div>
 					<!--END OWL CAROUSEL-->
@@ -292,11 +301,11 @@
 								<label for="nombre"><img src="img/man-user.png" alt=""><span class="line_separator">|</span></label>
 								<input type="text" class="form-control" name="nombre" placeholder="Nombre" id="nombre">
 							</div>
-							<div class="form-group col-6">
+							<div class="form-group col-12 col-md-6">
 								<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
 								<input type="email" class="form-control" name="correo" placeholder="Correo" id="correo">
 							</div>
-							<div class="form-group col-6">
+							<div class="form-group col-12 col-md-6">
 								<label for="telefono"><img src="img/icon.png" alt=""><span class="line_separator">|</span></label>
 								<input type="phone" class="form-control" name="nombre" placeholder="Teléfono" id="telefono">
 							</div>

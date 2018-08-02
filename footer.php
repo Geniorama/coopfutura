@@ -9,22 +9,22 @@
 					<div class="col-12 col-md-6">
 						<h4 class="color_yellow">Post recientes</h4>
 						<div class="row">
-							<div class="col-12 col-md-4">
+							<div class="col-6 col-md-4">
 								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
 							</div>
-							<div class="col-12 col-md-4">
+							<div class="col-6 col-md-4">
 								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
 							</div>
-							<div class="col-12 col-md-4">
+							<div class="col-6 col-md-4">
 								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
 							</div>
-							<div class="col-12 col-md-4">
+							<div class="col-6 col-md-4">
 								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
 							</div>
-							<div class="col-12 col-md-4">
+							<div class="col-6 col-md-4">
 								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
 							</div>
-							<div class="col-12 col-md-4">
+							<div class="col-6 col-md-4">
 								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
 							</div>
 						</div>

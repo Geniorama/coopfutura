@@ -6,116 +6,51 @@
 		<div class="row">
 			<div class="col-12 owl-carousel owl-home">
 				<div class="item-owl">
-					<img src="img/slide-1-home.jpeg" alt="" class="img-fluid">
-				</div>
-				<div class="item-owl">
-					<img src="img/slide-1-home.jpeg" alt="" class="img-fluid">
+					<img src="img/blog/blog-image-hero.jpeg" alt="" class="img-fluid">
 				</div>
 			</div>
 		</div>
 	</section>
-
-	<section class="blog_float">
-		<div class="container">
-			<div class="row">
-				<div class="col-12 col-md-4 card-blog">
-					<div class="row">
-						<div class="col-12 text-center">
-							<div class="image-block">
-								<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-								<span class="label-yellow">Categoría</span>
-								<div class="title-card-blog">
-									<div class="row">
-										<div class="col-12 text-left">
-											<a href="single.php">Título del blog</a>	
-										</div>
-									</div>
-								</div>
-								<div class="datetime">
-									<span class="month">May</span><br>
-									<span class="day">24</span><br>
-									<span class="year">2018</span>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-12 col-md-4 card-blog">
-					<div class="row">
-						<div class="col-12 text-center">
-							<div class="image-block">
-								<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-								<span class="label-yellow">Categoría</span>
-								<div class="title-card-blog">
-									<div class="row">
-										<div class="col-12 text-left">
-											<a href="#">Título del blog</a>	
-										</div>
-									</div>
-								</div>
-								<div class="datetime">
-									<span class="month">May</span><br>
-									<span class="day">24</span><br>
-									<span class="year">2018</span>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-12 col-md-4 card-blog">
-					<div class="row">
-						<div class="col-12 text-center">
-							<div class="image-block">
-								<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-								<span class="label-yellow">Categoría</span>
-								<div class="title-card-blog">
-									<div class="row">
-										<div class="col-12 text-left">
-											<a href="#">Título del blog</a>	
-										</div>
-									</div>
-								</div>
-								<div class="datetime">
-									<span class="month">May</span><br>
-									<span class="day">24</span><br>
-									<span class="year">2018</span>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<div class="menu_categories">
-		<div class="container">
-			<div class="row align-items-center justify-content-between">
-				<div class="col-12 col-md-8">
-					<ul class="nav">
-						<li class="nav-item"><a href="#" class="nav-link text_link">Todo</a></li>
-						<li class="nav-item"><a href="#" class="nav-link text_link">item-categoria</a></li>
-						<li class="nav-item"><a href="#" class="nav-link text_link">item-categoria</a></li>
-						<li class="nav-item"><a href="#" class="nav-link text_link">item-categoria</a></li>
-						<li class="nav-item"><a href="#" class="nav-link text_link">item-categoria</a></li>
-					</ul>
-				</div>
-				<div class="col-12 col-md-4">
-					<input type="search" class="form-control" placeholder="Ingresa tu búsqueda">
-				</div>
-			</div>
-		</div>
-	</div>
 
 	<section class="section main_blog">
 		<div class="container">
 			<div class="row">
 				<div class="col-12 col-md-8">
-					<div class="row">
-						<div class="col-12 col-md-6">
-							<div class="col-12 text-center card-blog">
+					<article class="article">
+						<span class="label_yellow col-2 text-center justify-content-center">Categoria</span>
+						<h2 class="color_green title_single_blog">Titulo</h2>
+						<div class="datetime">
+							<div class="image_datetime">
+								<img src="img/clock-with-white-face.png" alt="">
+							</div>
+							<div class="text_datetime">
+								<p>May 24 2018</p>
+							</div>
+						</div>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis amet et, quisquam temporibus. Dolor accusamus vel unde, labore explicabo excepturi itaque sed alias expedita pariatur voluptatibus, distinctio nostrum rerum ex, ipsam incidunt magnam facere laborum quo illo. Enim temporibus dignissimos recusandae incidunt laboriosam, odit quod eveniet aspernatur natus dolorum, quae amet fugiat error in. Possimus cum corporis in aliquid quo non nihil, cumque deserunt consequatur dolore id iure tenetur qui tempore aperiam, reiciendis, nesciunt debitis iste minus culpa eum perspiciatis? Quaerat quibusdam deleniti ipsam, laudantium nostrum a ea tenetur!</p>
+
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet deserunt necessitatibus assumenda rem provident natus veniam repellat aliquid, iusto labore dolor, nulla ad blanditiis itaque distinctio corporis in accusamus fugit porro, consequatur nesciunt reiciendis illo earum suscipit. Delectus dolorem qui consequatur. Quibusdam minima eum recusandae excepturi! Quam earum ratione alias, deleniti, ipsa nesciunt optio deserunt, reiciendis ea iure, nihil iste. Odit officia, error iste odio laudantium consequuntur distinctio repellat doloribus alias laboriosam corporis et accusantium mollitia eum consectetur quo nihil rem similique saepe totam placeat magnam minus inventore incidunt natus. Culpa porro molestiae enim esse eveniet, quis pariatur atque corporis!</p>
+
+						<img src="img/blog/blog-mockup.jpeg" alt="" class="img-fluid">
+
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id nihil consequatur soluta possimus culpa ab neque assumenda ducimus, tempore temporibus eius provident placeat corporis maxime fugiat vero. Repudiandae, fugit, velit.</p>
+
+						<hr class="separator">
+						<div class="social_bar">
+							<ul class="nav align-items-center">
+								<li class="nav-item">Compartir en:</li>
+								<li class="nav-item"><a href="https://twitter.com/home?status=http%3A//localhost/coopfutura/single.php" class="nav-link"><img src="img/twitter.png" alt="" class="img-fluid"></a></li>
+								<li class="nav-item"><a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//twitter.com/home?status=http%253A//localhost/coopfutura/single.php&title=&summary=&source=" class="nav-link"><img src="img/linked-in-square-button.png" alt="" class="img-fluid"></a></li>
+								<li class="nav-item"><a href="http://www.facebook.com/sharer/sharer.php?u=http://localhost/coopfutura/single.php" class="nav-link"><img src="img/facebook.png" alt="" class="img-fluid"></a></li>
+								<li class="nav-item"><a href="https://plus.google.com/share?url=http%3A//localhost/coopfutura/single.php" class="nav-link"><img src="img/google-plus.png" alt="" class="img-fluid"></a></li>
+							</ul>
+						</div>
+						<hr class="separator">
+					</article>
+					<h3>Artículos relacionados</h3>
+
+						<div class="owl-single-blog owl-carousel">
+							<div class="item-owl card-blog">
 								<div class="image-block">
 									<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
 									<span class="label-yellow">Categoría</span>
@@ -132,13 +67,9 @@
 												<span class="year">2018</span>
 									</div>
 								</div>
-								<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-								<a href="#" class="btn btn-primary">Leer blog</a>
 							</div>
-						</div>
 
-						<div class="col-12 col-md-6">
-							<div class="col-12 text-center card-blog">
+							<div class="item-owl card-blog">
 								<div class="image-block">
 									<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
 									<span class="label-yellow">Categoría</span>
@@ -155,36 +86,9 @@
 												<span class="year">2018</span>
 									</div>
 								</div>
-								<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-								<a href="#" class="btn btn-primary">Leer blog</a>
 							</div>
-						</div>
 
-						<div class="col-12 col-md-6">
-							<div class="col-12 text-center card-blog">
-								<div class="image-block">
-									<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-									<span class="label-yellow">Categoría</span>
-									<div class="title-card-blog">
-										<div class="row">
-											<div class="col-12 text-left">
-												<a href="single.php">Título del blog</a>	
-											</div>
-										</div>
-									</div>
-									<div class="datetime">
-												<span class="month">May</span><br>
-												<span class="day">24</span><br>
-												<span class="year">2018</span>
-									</div>
-								</div>
-								<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-								<a href="#" class="btn btn-primary">Leer blog</a>
-							</div>
-						</div>
-
-						<div class="col-12 col-md-6">
-							<div class="col-12 text-center card-blog">
+							<div class="item-owl card-blog">
 								<div class="image-block">
 									<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
 									<span class="label-yellow">Categoría</span>
@@ -201,13 +105,9 @@
 												<span class="year">2018</span>
 									</div>
 								</div>
-								<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-								<a href="#" class="btn btn-primary">Leer blog</a>
 							</div>
-						</div>
 
-						<div class="col-12 col-md-6">
-							<div class="col-12 text-center card-blog">
+							<div class="item-owl card-blog">
 								<div class="image-block">
 									<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
 									<span class="label-yellow">Categoría</span>
@@ -224,34 +124,8 @@
 												<span class="year">2018</span>
 									</div>
 								</div>
-								<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-								<a href="#" class="btn btn-primary">Leer blog</a>
 							</div>
 						</div>
-
-						<div class="col-12 col-md-6">
-							<div class="col-12 text-center card-blog">
-								<div class="image-block">
-									<img src="img/blog/image-3.jpeg" alt="" class="img-fluid">
-									<span class="label-yellow">Categoría</span>
-									<div class="title-card-blog">
-										<div class="row">
-											<div class="col-12 text-left">
-												<a href="#">Título del blog</a>	
-											</div>
-										</div>
-									</div>
-									<div class="datetime">
-												<span class="month">May</span><br>
-												<span class="day">24</span><br>
-												<span class="year">2018</span>
-									</div>
-								</div>
-								<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-								<a href="#" class="btn btn-primary">Leer blog</a>
-							</div>
-						</div>
-					</div>
 				</div>
 				<aside class="col-12 col-md-4 sidebar">
 					<h3>Newsletter</h3>

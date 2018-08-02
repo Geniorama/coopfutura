@@ -9,12 +9,36 @@ $(document).ready(function() {
 
 
 	$(".owl-nuestro-blog").owlCarousel({
-          	items: 1, 
+          	items: 3, 
           	autoplay: true,
           	nav: true,
           	loop: true,
 
+            responsive : {
+                // breakpoint from 0 up
+                0 : {
+                    items: 1
+                },
+                // breakpoint from 480 up
+                480 : {
+                    items: 2
+                   
+                },
+                // breakpoint from 768 up
+                768 : {
+                    items: 3
+                    
+                }
+            }
           });
+
+	$(".owl-single-blog").owlCarousel({
+          	items: 3, 
+          	autoplay: true,
+          	nav: true,
+
+     });
+
 
 	//NAV TABS
 
@@ -40,5 +64,9 @@ $(document).ready(function() {
     $('.header .nav-link').click(function() {
     	$('.nav-link').removeClass('link_active');
     	$(this).addClass('link_active');
+    });
+
+    $('.header .btn_toggle').click(function() {
+      $('.header .nav').slideToggle();
     })
 });

@@ -19,7 +19,7 @@
 				<div class="col-12 col-md-5">
 					<p class="text_tall">Revisa las condiciones para acceder a nuestro servicio de <strong>Crédito por libranza para empleados públicos</strong></p>
 				</div>
-				<div class="col-12 col-md-1">
+				<div class="col-12 col-md-1 text-center">
 					<img src="img/up-arrow.png" alt="" class="img-fluid arrow_right">
 				</div>
 				<div class="col-12 col-md-6">
