@@ -59,7 +59,7 @@
 		  <div class="modal-dialog modal-lg" role="document">
 		    <div class="modal-content">
 		      <div class="modal-header">
-		        <h5 class="modal-title" id="exampleModalLabel">Trabaja con Coopfutura</h5>
+		        <h5 class="modal-title" id="exampleModalLabel">Trabaja en <span class="color_green">Coopfutura</span></h5>
 		        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		          <span aria-hidden="true">&times;</span>
 		        </button>
@@ -97,7 +97,7 @@
 							<input type="phone" class="form-control" name="telefono" placeholder="Teléfono fijo o móvil*" id="telefono">
 						</div>
 						<div class="col-12 text-center">
-							<input type="submit" class="btn btn-primary" value="ENVIAR">
+							<input type="submit" class="btn btn-secondary" value="ENVIAR">
 						</div>
 		        	</div>
 		        </form>

@@ -67,5 +67,12 @@ $(document).ready(function() {
 
     $('.header .btn_toggle').click(function() {
       $('.header .nav').slideToggle();
+    });
+
+    //TABS
+
+    $('.accordion .card button.btn').click(function() {
+        $('.accordion .card button.btn').removeClass('tab_active');
+        $(this).addClass('tab_active');
     })
 });

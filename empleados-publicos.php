@@ -339,11 +339,11 @@
 								<label for="nombre"><img src="img/man-user.png" alt=""><span class="line_separator">|</span></label>
 								<input type="text" class="form-control" name="nombre" placeholder="Nombre" id="nombre">
 							</div>
-							<div class="form-group col-6">
+							<div class="form-group col-12 col-md-6">
 								<label for="nombre"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
 								<input type="email" class="form-control" name="correo" placeholder="Correo">
 							</div>
-							<div class="form-group col-6">
+							<div class="form-group col-12 col-md-6">
 								<label for="nombre"><img src="img/icon.png" alt=""><span class="line_separator">|</span></label>
 								<input type="phone" class="form-control" name="nombre" placeholder="Teléfono">
 							</div>
