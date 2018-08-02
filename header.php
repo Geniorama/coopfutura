@@ -21,7 +21,7 @@
 						<li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
 						<li class="nav-item"><a href="index.php#quienes-somos" class="nav-link">¿Quiénes somos?</a></li>
 						<li class="nav-item"><a href="index.php#nuestros-servicios" class="nav-link">Servicios</a></li>
-						<li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
+						<li class="nav-item"><a href="index.php#nuestro-blog" class="nav-link">Blog</a></li>
 						<li class="nav-item"><a href="index.php#contacto" class="nav-link">Contacto</a></li>
 					</ul>	
 				</div>
@@ -59,17 +59,51 @@
 		  <div class="modal-dialog modal-lg" role="document">
 		    <div class="modal-content">
 		      <div class="modal-header">
-		        <h5 class="modal-title" id="exampleModalLabel">Trabaja con nosotros</h5>
+		        <h5 class="modal-title" id="exampleModalLabel">Trabaja con Coopfutura</h5>
 		        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 		          <span aria-hidden="true">&times;</span>
 		        </button>
 		      </div>
 		      <div class="modal-body">
-		        ...
+		      	<p class="text-center">Envíanos tus datos para acceder a nuestras convocatorias de empleo y haz parte de esta gran empresa.</p>
+		        <form action="" class="form_contact">
+		        	<div class="form-row">
+		        		<div class="form-group col-12 col-md-6">
+							<label for="nombre"><img src="img/man-user.png" alt=""><span class="line_separator">|</span></label>
+							<input type="text" class="form-control" name="nombre" placeholder="Nombres y apellidos*" id="nombre">
+						</div>
+						<div class="form-group col-12 col-md-6">
+							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
+							<input type="email" class="form-control" name="correo" placeholder="Edad*" id="correo">
+						</div>
+						<div class="form-group col-12 col-md-6">
+							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
+							<input type="email" class="form-control" name="correo" placeholder="Profesión*" id="correo">
+						</div>
+						<div class="form-group col-12 col-md-6">
+							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
+							<input type="email" class="form-control" name="correo" placeholder="Ciudad*" id="correo">
+						</div>
+						<div class="form-group col-12 col-md-6">
+							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
+							<input type="email" class="form-control" name="correo" placeholder="Cargo al que te postulas*" id="correo">
+						</div>
+						<div class="form-group col-12 col-md-6">
+							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
+							<input type="email" class="form-control" name="correo" placeholder="Correo*" id="correo">
+						</div>
+						<div class="form-group col-12">
+							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
+							<input type="email" class="form-control" name="correo" placeholder="Teléfono fijo o móvil*" id="correo">
+						</div>
+						<div class="col-12 text-center">
+							<input type="submit" class="btn btn-primary" value="ENVIAR">
+						</div>
+		        	</div>
+		        </form>
 		      </div>
 		      <div class="modal-footer">
-		        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-		        <button type="button" class="btn btn-primary">Save changes</button>
+		       <span>*Campo obligatorio</span>
 		      </div>
 		    </div>
 		  </div>

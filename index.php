@@ -114,7 +114,7 @@
 												<div class="title-card-blog">
 													<div class="row">
 														<div class="col-12 text-left">
-															<a href="#">Título del blog</a>	
+															<a href="single.php">Título del blog</a>	
 														</div>
 													</div>
 												</div>
@@ -125,7 +125,7 @@
 												</div>
 											</div>
 											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-											<a href="#" class="btn btn-primary">Leer blog</a>
+											<a href="single.php" class="btn btn-primary">Leer blog</a>
 										</div>
 									</div>		
 								</div>
@@ -142,7 +142,7 @@
 												<div class="title-card-blog">
 													<div class="row">
 														<div class="col-12 text-left">
-															<a href="#">Título del blog</a>	
+															<a href="single.php">Título del blog</a>	
 														</div>
 													</div>
 												</div>
@@ -153,7 +153,7 @@
 												</div>
 											</div>
 											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-											<a href="#" class="btn btn-primary">Leer blog</a>
+											<a href="single.php" class="btn btn-primary">Leer blog</a>
 										</div>
 									</div>		
 								</div>
@@ -169,7 +169,7 @@
 												<div class="title-card-blog">
 													<div class="row">
 														<div class="col-12 text-left">
-															<a href="#">Título del blog</a>	
+															<a href="single.php">Título del blog</a>	
 														</div>
 													</div>
 												</div>
@@ -180,7 +180,7 @@
 												</div>
 											</div>
 											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-											<a href="#" class="btn btn-primary">Leer blog</a>
+											<a href="single.php" class="btn btn-primary">Leer blog</a>
 										</div>
 									</div>		
 								</div>
@@ -198,7 +198,7 @@
 												<div class="title-card-blog">
 													<div class="row">
 														<div class="col-12 text-left">
-															<a href="#">Título del blog</a>	
+															<a href="single.php">Título del blog</a>	
 														</div>
 													</div>
 												</div>
@@ -209,7 +209,7 @@
 												</div>
 											</div>
 											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-											<a href="#" class="btn btn-primary">Leer blog</a>
+											<a href="single.php" class="btn btn-primary">Leer blog</a>
 										</div>
 									</div>		
 								</div>
@@ -225,7 +225,7 @@
 												<div class="title-card-blog">
 													<div class="row">
 														<div class="col-12 text-left">
-															<a href="#">Título del blog</a>	
+															<a href="single.php">Título del blog</a>	
 														</div>
 													</div>
 												</div>
@@ -236,7 +236,7 @@
 												</div>
 											</div>
 											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-											<a href="#" class="btn btn-primary">Leer blog</a>
+											<a href="single.php" class="btn btn-primary">Leer blog</a>
 										</div>
 									</div>		
 								</div>
@@ -252,7 +252,7 @@
 												<div class="title-card-blog">
 													<div class="row">
 														<div class="col-12 text-left">
-															<a href="#">Título del blog</a>	
+															<a href="single.php">Título del blog</a>	
 														</div>
 													</div>
 												</div>
@@ -263,7 +263,7 @@
 												</div>
 											</div>
 											<p class="text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus praesentium ratione labore eos pariatur, architecto. Eveniet maiores</p>
-											<a href="#" class="btn btn-primary">Leer blog</a>
+											<a href="single.php" class="btn btn-primary">Leer blog</a>
 										</div>
 									</div>		
 								</div>

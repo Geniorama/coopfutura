@@ -973,6 +973,24 @@ hr.separator {
 
 }
 
+/*------------- Modal window----------------*/
+
+.modal-body{
+	padding: 3rem !important;
+}
+
+.modal-footer{
+	color: red;
+}
+
+.modal-body .form_contact{
+	margin-top: 2rem;
+}
+
+.modal-body .form_contact .form-control{
+	border: 1px solid #f2f2f2 !important;
+}
+
 
 /*RESPONSIVE STYLES*/
 

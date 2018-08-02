@@ -38,7 +38,7 @@
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-12 col-md-6">
-						<p>Designed by <a href="#" target="_blank">Creative Nerd</a> 2018 © Coop Futura All Rights Reserved</p>
+						<p>Designed by <a href="http://agenciaelnerd.com/" target="_blank">Creative Nerd</a> 2018 © Coop Futura All Rights Reserved</p>
 					</div>
 					<div class="col-12 col-md-6">
 						<p>Aviso de <a href="#" target="_blank">Política de privacidad</a> de uso de datos</p>
