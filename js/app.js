@@ -12,7 +12,6 @@ $(document).ready(function() {
           	items: 3, 
           	autoplay: true,
           	nav: true,
-          	loop: true,
 
             responsive : {
                 // breakpoint from 0 up

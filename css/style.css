@@ -252,11 +252,10 @@ a.text_link:hover{
 
 /*slider home*/
 
-
-.slider-home .owl-carousel .item-owl img{
-	object-fit: cover;
-	max-height: 800px;
+.slider-home .owl-carousel .item-owl{
+	max-height:800px;
 }
+
 
 .slider-home .owl-carousel .owl-nav{
 	position: absolute;
@@ -1076,6 +1075,13 @@ hr.separator {
 
 }
 
+/* ----------- Non-Retina Screens ----------- */
+
+@media (min-width: 768px) and (max-width: 1366px){
+	.slider-home .owl-carousel .item-owl{
+	max-height:650px;
+	}
+}
 
 
 
