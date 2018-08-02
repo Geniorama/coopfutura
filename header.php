@@ -73,28 +73,28 @@
 							<input type="text" class="form-control" name="nombre" placeholder="Nombres y apellidos*" id="nombre">
 						</div>
 						<div class="form-group col-12 col-md-6">
-							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
-							<input type="email" class="form-control" name="correo" placeholder="Edad*" id="correo">
+							<label for="edad"><img src="img/cake.png" alt=""><span class="line_separator">|</span></label>
+							<input type="text" class="form-control" name="edad" placeholder="Edad en años*" id="edad">
 						</div>
 						<div class="form-group col-12 col-md-6">
-							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
-							<input type="email" class="form-control" name="correo" placeholder="Profesión*" id="correo">
+							<label for="profesion"><img src="img/businessman.png" alt=""><span class="line_separator">|</span></label>
+							<input type="text" class="form-control" name="profesion" placeholder="Profesión*" id="profesion">
 						</div>
 						<div class="form-group col-12 col-md-6">
-							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
-							<input type="email" class="form-control" name="correo" placeholder="Ciudad*" id="correo">
+							<label for="ciudad"><img src="img/building.png" alt=""><span class="line_separator">|</span></label>
+							<input type="text" class="form-control" name="ciudad" placeholder="Ciudad*" id="ciudad">
 						</div>
 						<div class="form-group col-12 col-md-6">
-							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
-							<input type="email" class="form-control" name="correo" placeholder="Cargo al que te postulas*" id="correo">
+							<label for="cargo"><img src="img/working-with-laptop.png" alt=""><span class="line_separator">|</span></label>
+							<input type="email" class="form-control" name="cargo" placeholder="Cargo al que te postulas*" id="cargo">
 						</div>
 						<div class="form-group col-12 col-md-6">
 							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
 							<input type="email" class="form-control" name="correo" placeholder="Correo*" id="correo">
 						</div>
 						<div class="form-group col-12">
-							<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
-							<input type="email" class="form-control" name="correo" placeholder="Teléfono fijo o móvil*" id="correo">
+							<label for="telefono"><img src="img/icon.png" alt=""><span class="line_separator">|</span></label>
+							<input type="phone" class="form-control" name="telefono" placeholder="Teléfono fijo o móvil*" id="telefono">
 						</div>
 						<div class="col-12 text-center">
 							<input type="submit" class="btn btn-primary" value="ENVIAR">
