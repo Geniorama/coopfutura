@@ -1367,6 +1367,11 @@ hr.separator {
 		margin-top: 1rem;
 	}
 
+	.back-to-top {
+		right: 15px;
+		bottom: 5rem;
+	}
+
 }
 
 /* ----------- Non-Retina Screens ----------- */
@@ -1385,6 +1390,3 @@ hr.separator {
 .show_flex {
 	opacity: 1 !important;
 }
-
-
-

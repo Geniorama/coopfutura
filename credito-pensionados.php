@@ -806,7 +806,7 @@
 					<p>Toma la mejor decisión para tu futuro. Ofrecemos una respuesta rápida a tu solicitud.</p>
 				</div>
 				<div class="col-12 col-md-6 text-center">
-					<a href="#" class="btn btn-secondary">Solicita tu crédito</a>
+					<a href="#contacto" class="btn btn-secondary">Solicita tu crédito</a>
 				</div>
 			</div>
 		</div>

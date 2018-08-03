@@ -120,10 +120,42 @@
 					</ul>
 				</div>
 				<div class="col-12 col-md-9">
+					<!--BENEFICIOS-->
+					<div class="card card_services" id="beneficios">
+						<div class="card-body">
+							<h2 class="card-title text-center color_green">BENEFICIOS</h2><br><br>	
+							<div class="row">
+								<div class="col-12 col-md-4 text-center item_benefits">
+									<img src="img/checked.png" alt="" class="img-fluid">
+									<p class="color_green">Mejoramiento en reportes con Bancos</p>
+								</div>
+								<div class="col-12 col-md-4 text-center item_benefits">
+									<img src="img/checked.png" alt="" class="img-fluid">
+									<p class="color_green">Flexibilidad</p>
+								</div>
+								<div class="col-12 col-md-4 text-center item_benefits">
+									<img src="img/checked.png" alt="" class="img-fluid">
+									<p class="color_green">Saneamiento de Cartera</p>
+								</div>
+								<div class="col-12 col-md-4 text-center item_benefits">
+									<img src="img/checked.png" alt="" class="img-fluid">
+									<p class="color_green">Agilidad</p>
+								</div>
+								<div class="col-12 col-md-4 text-center item_benefits">
+									<img src="img/checked.png" alt="" class="img-fluid">
+									<p class="color_green">Atención Personalizada</p>
+								</div>
+								<div class="col-12 col-md-4 text-center item_benefits">
+									<img src="img/checked.png" alt="" class="img-fluid">
+									<p class="color_green">Cuota Fija y Abonos a Capital</p>
+								</div>
+							</div>
+						</div>
+					</div>
 				<!--SEGURO DE VIDA-->
 					<div class="card card_services" id="seguro_de_vida">
 						<div class="card-body">
-							<h5 class="card-title text-center color_green">SEGURO DE VIDA</h5><br><br>	
+							<h2 class="card-title text-center color_green">SEGURO DE VIDA</h2><br><br>	
 							<div class="row">
 								<div class="col-12 col-md-6">
 									<div class="label_yellow">
@@ -480,38 +512,7 @@
 						</div>
 					</div>
 				
-				<!--BENEFICIOS-->
-					<div class="card card_services" id="beneficios">
-						<div class="card-body">
-							<h5 class="card-title text-center color_green">BENEFICIOS</h5><br><br>	
-							<div class="row">
-								<div class="col-12 col-md-4 text-center item_benefits">
-									<img src="img/checked.png" alt="" class="img-fluid">
-									<p class="color_green">Mejoramiento en reportes con Bancos</p>
-								</div>
-								<div class="col-12 col-md-4 text-center item_benefits">
-									<img src="img/checked.png" alt="" class="img-fluid">
-									<p class="color_green">Flexibilidad</p>
-								</div>
-								<div class="col-12 col-md-4 text-center item_benefits">
-									<img src="img/checked.png" alt="" class="img-fluid">
-									<p class="color_green">Saneamiento de Cartera</p>
-								</div>
-								<div class="col-12 col-md-4 text-center item_benefits">
-									<img src="img/checked.png" alt="" class="img-fluid">
-									<p class="color_green">Agilidad</p>
-								</div>
-								<div class="col-12 col-md-4 text-center item_benefits">
-									<img src="img/checked.png" alt="" class="img-fluid">
-									<p class="color_green">Atención Personalizada</p>
-								</div>
-								<div class="col-12 col-md-4 text-center item_benefits">
-									<img src="img/checked.png" alt="" class="img-fluid">
-									<p class="color_green">Cuota Fija y Abonos a Capital</p>
-								</div>
-							</div>
-						</div>
-					</div>
+				
 				</div>
 			</div>
 		</div>
@@ -524,7 +525,7 @@
 					<p>Toma la mejor decisión para tu futuro. Ofrecemos una respuesta rápida a tu solicitud.</p>
 				</div>
 				<div class="col-12 col-md-6 text-center">
-					<a href="#" class="btn btn-secondary">Solicita tu crédito</a>
+					<a href="#contacto" class="btn btn-secondary">Solicita tu crédito</a>
 				</div>
 			</div>
 		</div>
