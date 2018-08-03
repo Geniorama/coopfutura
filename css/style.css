@@ -320,6 +320,7 @@ a.text_link:hover{
 	background-color: rgba(217, 190, 24, 0.7);
 	transform: rotate(20deg) translateX(100%);
 	transition: all .8s;
+	z-index: 4;
 
 }
 
@@ -333,6 +334,7 @@ a.text_link:hover{
 	background-color: rgba(28, 123, 24, 0.7);
 	transform: rotate(50deg) translateX(100%);
 	transition: all .8s;
+	z-index: 4;
 
 }
 
@@ -353,6 +355,7 @@ a.text_link:hover{
 	left: 0;
 	z-index: 3;
 	color: #fff;
+	background: rgba(0, 0, 0, .4);
 }
 
 .slider-home .owl-home .item-owl .caption_slide .text_tall{
@@ -1304,6 +1307,7 @@ hr.separator {
 		left: 0;
 		z-index: 3;
 		color: #fff;
+
 	}
 
 	.slider-home .owl-home .item-owl .caption_slide .text_tall{

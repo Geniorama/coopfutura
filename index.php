@@ -22,16 +22,16 @@
 					</div>
 				</div>
 				<div class="item-owl">
-					<img src="img/futuro.jpeg" alt="" class="img-fluid">
+					<img src="img/travel.jpeg" alt="" class="img-fluid">
 					<div class="caption_slide">
 						<div class="container">
 							<div class="row">
 								<div class="col-12">
-									<p>Miramos siempre adelante,<br>
-									<span class="text_tall">Cuidamos tu futuro</span>
+									<p>Te ayudamos a cumplir lo que<br>
+									<span class="text_tall">Siempre soñaste</span>
 									</p>
 									
-									<a href="#nuestros-servicios" class="btn btn-secondary">Conoce más</a>
+									<a href="credito-pensionados.php" class="btn btn-secondary">Crédito para pensionados</a>
 								</div>
 							</div>
 						</div>
