@@ -746,6 +746,7 @@
 									<hr class="separator">
 								</div>
 								<div class="col-12">
+									<h5 class="text-center">Condiciones generales</h5><br>
 									<ul class="small-text">
 										<li>Todos los créditos deben venir con 2 fotocopias de la cédula de ciudadanía legible, ampliada al 150% con firma número de cédula y huellas (Una rodada, la segunda de contacto y la tercera con parte de la falange), no se acepta copia de copia ni copia escaneada; No se aceptan contraseñas.</li>
 										<li>Para Ministerio de Defensa, debe anexar 2 fotocopias a color del carné de salud actualizado ampliadas al 150% con firma, número de cédula y huella.</li>

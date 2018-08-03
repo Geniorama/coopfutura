@@ -17,7 +17,7 @@
 			<div class="row">
 				<div class="col-12 col-md-8">
 					<article class="article">
-						<span class="label_yellow col-2 text-center justify-content-center">Categoria</span>
+						<span class="label_yellow col-12 col-md-2 text-center justify-content-center">Categoria</span>
 						<h2 class="color_green title_single_blog">Titulo</h2>
 						<div class="datetime">
 							<div class="image_datetime">

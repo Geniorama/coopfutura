@@ -16,11 +16,24 @@
 				<div class="btn_toggle col-3 d-md-none">
 					<img src="img/menu.png" alt="" class="img-fluid">
 				</div>
-				<div class="col-12 col-md-6">
+				<div class="col-12 col-md-8">
 					<ul class="nav justify-content-end">
 						<li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
 						<li class="nav-item"><a href="index.php#quienes-somos" class="nav-link">¿Quiénes somos?</a></li>
-						<li class="nav-item"><a href="index.php#nuestros-servicios" class="nav-link">Servicios</a></li>
+						<li class="nav-item link_dropdown">
+							<div class="item_dropdown">
+								<a href="index.php#nuestros-servicios" class="nav-link">Servicios</a>
+								<div class="div_img">
+									<img src="img/back(1).png" alt="" class="img-fluid">
+								</div>
+							</div>
+							
+							<ul class="nav flex-column content_dropdown">
+								<li class="nav-item"><a href="credito-pensionados.php" class="nav-link">Crédito por libranza para pensionados</a></li>
+								<li><hr class="separator"></li>
+								<li class="nav-item"><a href="empleados-publicos.php" class="nav-link">Crédito por libranza para empleados públicos</a></li>
+							</ul>
+						</li>
 						<li class="nav-item"><a href="index.php#nuestro-blog" class="nav-link">Blog</a></li>
 						<li class="nav-item"><a href="index.php#contacto" class="nav-link">Contacto</a></li>
 					</ul>	

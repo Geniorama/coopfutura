@@ -210,7 +210,7 @@
 
 							    <div id="provisionales" class="collapse" aria-labelledby="heading_provisionales" data-parent="#pagadurias">
 							      <div class="card-body">
-							        <h5 class="text-center">Perfil tipo A: <br>Con experiencia crediticia sin moras vigente</h5><br>
+							        <h5 class="text-center"><span class="color_yellow">Perfil tipo A:</span> <br>Con experiencia crediticia sin moras vigente</h5><br>
 							        <div class="table-responsive">
 							        	<table class="table">
 										  <thead class="thead-dark">
@@ -240,20 +240,90 @@
 										</table>
 							        </div>
 							        <!--END TABLE-->
+
+							        <hr class="separator">
+									
+									<h5 class="text-center"><span class="color_yellow">Perfil tipo B:</span> <br>Con experiencia crediticia con max. 3 moras vigentes diferente a libranzas, cuya suma no sea superior a 3 millones.</h5><br>
+							        <div class="table-responsive">
+							        	<table class="table">
+										  <thead class="thead-dark">
+										    <tr>
+										      <th scope="col">Antigûedad/Edad</th>
+										      <th scope="col">Plazo en meses</th>
+										      <th scope="col">Max. sin codeudor</th>
+										    </tr>
+										  </thead>
+										  <tbody>
+										    <tr>
+										      <td>DE 1 A 3 AÑOS</td>
+										      <td>36</td>
+										      <td>2.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>DE 3 A 5 AÑOS</td>
+										      <td>48</td>
+										      <td>4.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>MAS DE 5 AÑOS</td>
+										      <td>60</td>
+										      <td>6.000.000</td>
+										    </tr>
+										  </tbody>
+										</table>
+							        </div>
+
+							    	<!--END TABLE-->
+
+							    	<hr class="separator">
+									
+									<h5 class="text-center"><span class="color_yellow">Perfil tipo C:</span> <br>Con experiencia crediticia, con 4 moras o más vigentes diferente a libranzas cuya suma no sea superior a 7 millones.</h5><br>
+							        <div class="table-responsive">
+							        	<table class="table">
+										  <thead class="thead-dark">
+										    <tr>
+										      <th scope="col">Antigûedad/Edad</th>
+										      <th scope="col">Plazo en meses</th>
+										      <th scope="col">Max. sin codeudor</th>
+										    </tr>
+										  </thead>
+										  <tbody>
+										    <tr>
+										      <td>DE 1 A 3 AÑOS</td>
+										      <td>30</td>
+										      <td>1.500.000</td>
+										    </tr>
+										    <tr>
+										      <td>DE 3 A 5 AÑOS</td>
+										      <td>36</td>
+										      <td>3.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>MAS DE 5 AÑOS</td>
+										      <td>48</td>
+										      <td>40.000.000</td>
+										    </tr>
+										  </tbody>
+										</table>
+							        </div>
+
+							    	<!--END TABLE-->
+
 							        <div class="row">
 							        	<div class="col-12">
 							        		<hr class="separator">
 							        	</div>
 							        	<div class="col-12 col-md-6">
 							        		<h5 class="color_green text-center">Cálculo capacidad de pago</h5>
-							        		<p>(MESADA PENSIONAL - DESCUENTOS DE LEY)/2 - DEDUCCIONES - $11.000</p>
+							        		<p>SUELDO BÁSICO - DESCUENTOS DE LEY - 1SMMLV</p>
 							        	</div>
 							        	<div class="col-12 col-md-6">
 							        		<h5 class="color_green text-center">Observaciones</h5>
 							        		<ul>
 							        			<li>Aplica para compras de cartera y recogesaldos</li>
-							        			<li>Anexar 2 plantillas de reporte</li>
-							        			<li>No son sujeto de crédito las afiliaciones terminadas en: 104 a 149, 300, 400, 700, 800 Y 900</li>
+							        			<li>Libranza visada por pagaduría (validan capacidad)</li>
+							        			<li>Descuentos de ley: Salud, pensión, fondo de solidaridad pensional, retención en la fuente</li>
+							        			<li>Anexar certificado laboral con fecha de expedición no mayor a 30 días</li>
 							        		</ul>
 							        	</div>
 							        </div>
@@ -271,54 +341,117 @@
 							    </div>
 							    <div id="planta" class="collapse" aria-labelledby="heading_planta" data-parent="#pagadurias">
 							      <div class="card-body">
-							        <h5 class="text-center">Grado: <br>Pensionados</h5>
+							        <h5 class="text-center"><span class="color_yellow">Perfil tipo A:</span> <br>Con experiencia crediticia sin moras vigente</h5><br>
 							        <div class="table-responsive">
 							        	<table class="table">
 										  <thead class="thead-dark">
 										    <tr>
-										      <th scope="col">Edad</th>
+										      <th scope="col">Antigûedad/Edad</th>
 										      <th scope="col">Plazo en meses</th>
 										      <th scope="col">Max. sin codeudor</th>
 										    </tr>
 										  </thead>
 										  <tbody>
 										    <tr>
-										      <td>ENTRE 18 Y 65 AÑOS</td>
-										      <td>96</td>
-										      <td>32.000.000</td>
-										    </tr>
-										    <tr>
-										      <td>ENTRE 65 Y 69 AÑOS</td>
-										      <td>84</td>
-										      <td>27.000.000</td>
-										    </tr>
-										    <tr>
-										      <td>ENTRE 70 Y 79 AÑOS</td>
-										      <td>72</td>
-										      <td>20.000.000</td>
-										    </tr>
-										    <tr>
-										      <td>ENTRE 80 Y 84 AÑOS</td>
-										      <td>60</td>
+										      <td>DE 1 A 3 AÑOS</td>
+										      <td>48</td>
 										      <td>10.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>DE 3 A 5 AÑOS</td>
+										      <td>60</td>
+										      <td>12.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>MAS DE 5 AÑOS</td>
+										      <td>72</td>
+										      <td>15.000.000</td>
 										    </tr>
 										  </tbody>
 										</table>
 							        </div>
 							        <!--END TABLE-->
+
+							        <hr class="separator">
+									
+									<h5 class="text-center"><span class="color_yellow">Perfil tipo B:</span> <br>Con experiencia crediticia con max. 3 moras vigentes diferente a libranzas, cuya suma no sea superior a 3 millones.</h5><br>
+							        <div class="table-responsive">
+							        	<table class="table">
+										  <thead class="thead-dark">
+										    <tr>
+										      <th scope="col">Antigûedad/Edad</th>
+										      <th scope="col">Plazo en meses</th>
+										      <th scope="col">Max. sin codeudor</th>
+										    </tr>
+										  </thead>
+										  <tbody>
+										    <tr>
+										      <td>DE 1 A 3 AÑOS</td>
+										      <td>48</td>
+										      <td>8.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>DE 3 A 5 AÑOS</td>
+										      <td>60</td>
+										      <td>10.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>MAS DE 5 AÑOS</td>
+										      <td>72</td>
+										      <td>10.000.000</td>
+										    </tr>
+										  </tbody>
+										</table>
+							        </div>
+
+							    	<!--END TABLE-->
+
+							    	<hr class="separator">
+									
+									<h5 class="text-center"><span class="color_yellow">Perfil tipo C:</span> <br>Con experiencia crediticia, con 4 moras o más vigentes diferente a libranzas cuya suma no sea superior a 7 millones.</h5><br>
+							        <div class="table-responsive">
+							        	<table class="table">
+										  <thead class="thead-dark">
+										    <tr>
+										      <th scope="col">Antigûedad/Edad</th>
+										      <th scope="col">Plazo en meses</th>
+										      <th scope="col">Max. sin codeudor</th>
+										    </tr>
+										  </thead>
+										  <tbody>
+										    <tr>
+										      <td>DE 1 A 3 AÑOS</td>
+										      <td>30</td>
+										      <td>1.500.000</td>
+										    </tr>
+										    <tr>
+										      <td>DE 3 A 5 AÑOS</td>
+										      <td>36</td>
+										      <td>3.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>MAS DE 5 AÑOS</td>
+										      <td>48</td>
+										      <td>40.000.000</td>
+										    </tr>
+										  </tbody>
+										</table>
+							        </div>
 							        <div class="row">
 							        	<div class="col-12">
 							        		<hr class="separator">
 							        	</div>
 							        	<div class="col-12 col-md-6">
 							        		<h5 class="color_green text-center">Cálculo capacidad de pago</h5>
-							        		<p>(MESADA PENSIONAL - DESCUENTOS DE LEY)/2 - DEDUCCIONES - $15.000</p>
+							        		<p>SUELDO BÁSICO - DESCUENTOS DE LEY - 1SMMLV</p>
 							        	</div>
 							        	<div class="col-12 col-md-6">
 							        		<h5 class="color_green text-center">Observaciones</h5>
 							        		<ul>
 							        			<li>Aplica para compras de cartera y recogesaldos</li>
-							        			<li>Anexar claves y correo confirmado para verificar el PIN</li>
+							        			<li>Libranza visada por pagaduría (validan capacidad)</li>
+							        			<li>Descuentos de ley: Salud, pensión, fondo de solidaridad pensional, retención en la fuente</li>
+							        			<li>Anexar certificado laboral con fecha de expedición no mayor a 30 días</li>
 							        		</ul>
 							        	</div>
 							        </div>
@@ -331,6 +464,7 @@
 									<hr class="separator">
 								</div>
 								<div class="col-12">
+									<h5 class="text-center">Condiciones generales</h5><br>
 									<ul class="small-text">
 										<li>Todos los créditos deben venir con 2 fotocopias de la cédula de ciudadanía legible, ampliada al 150% con firma número de cédula y huellas (Una rodada, la segunda de contacto y la tercera con parte de la falange), no se acepta copia de copia ni copia escaneada; No se aceptan contraseñas.</li>
 										<li>Para Ministerio de Defensa, debe anexar 2 fotocopias a color del carné de salud actualizado ampliadas al 150% con firma, número de cédula y huella.</li>

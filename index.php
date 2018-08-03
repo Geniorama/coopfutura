@@ -6,10 +6,36 @@
 		<div class="row">
 			<div class="col-12 owl-carousel owl-home">
 				<div class="item-owl">
-					<img src="img/slide-1-home.jpeg" alt="" class="img-fluid">
+					<img src="img/cuidar.jpeg" alt="" class="img-fluid">
+					<div class="caption_slide">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									<p>Miramos siempre adelante,<br>
+									<span class="text_tall">Cuidamos tu futuro</span>
+									</p>
+									
+									<a href="#nuestros-servicios" class="btn btn-secondary">Conoce más</a>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 				<div class="item-owl">
-					<img src="img/slide-1-home.jpeg" alt="" class="img-fluid">
+					<img src="img/futuro.jpeg" alt="" class="img-fluid">
+					<div class="caption_slide">
+						<div class="container">
+							<div class="row">
+								<div class="col-12">
+									<p>Miramos siempre adelante,<br>
+									<span class="text_tall">Cuidamos tu futuro</span>
+									</p>
+									
+									<a href="#nuestros-servicios" class="btn btn-secondary">Conoce más</a>
+								</div>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -327,11 +353,11 @@
 			<div class="row">
 				<div class="col-12">
 					<ul class="nav justify-content-center align-items-center box-info">
-						<li class="nav-link">servicioalcliente@coopfuturagt.com</li>
+						<li class="nav-item">servicioalcliente@coopfuturagt.com</li>
 						<li class="bullet"></li>
-						<li class="nav-link">+57 (1) 3186342</li>
+						<li class="nav-item">+57 (1) 3186342</li>
 						<li class="bullet"></li>
-						<li class="nav-link">Cra 123 # 20-45</li>
+						<li class="nav-item">Cra 123 # 20-45</li>
 					</ul>
 				</div>
 			</div>
