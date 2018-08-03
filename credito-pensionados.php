@@ -208,7 +208,7 @@
 							      </h5>
 							    </div>
 
-							    <div id="colpensiones" class="collapse show" aria-labelledby="heading_colpensiones" data-parent="#pagadurias">
+							    <div id="colpensiones" class="collapse" aria-labelledby="heading_colpensiones" data-parent="#pagadurias">
 							      <div class="card-body">
 							        <h5 class="text-center">Grado: <br>Pensionados</h5>
 							        <div class="table-responsive">

@@ -196,71 +196,151 @@
 				<!--PAGADURIAS-->
 					<div class="card card_services" id="pagadurias">
 						<div class="card-body">
-							<h5 class="card-title text-center color_green">PAGADURÍAS</h5><br><br>	
+							<h2 class="card-title text-center color_green">PAGADURÍAS</h2><br><br>
+							<h4 class="text-center">Superintendencia de Salud <br><span class="small-text">Del 1 al 10 de cada mes</span></h4>	
+							<div class="accordion" id="pagadurias_accordion">
+							  <div class="card">
+							    <div class="card-header" id="heading_provisionales">
+							      <h5 class="mb-0">
+							        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#provisionales" aria-expanded="false" aria-controls="heading_provisionales">
+							          PROVISIONALES
+							        </button>
+							      </h5>
+							    </div>
+
+							    <div id="provisionales" class="collapse" aria-labelledby="heading_provisionales" data-parent="#pagadurias">
+							      <div class="card-body">
+							        <h5 class="text-center">Perfil tipo A: <br>Con experiencia crediticia sin moras vigente</h5><br>
+							        <div class="table-responsive">
+							        	<table class="table">
+										  <thead class="thead-dark">
+										    <tr>
+										      <th scope="col">Antigûedad/Edad</th>
+										      <th scope="col">Plazo en meses</th>
+										      <th scope="col">Max. sin codeudor</th>
+										    </tr>
+										  </thead>
+										  <tbody>
+										    <tr>
+										      <td>DE 1 A 3 AÑOS</td>
+										      <td>48</td>
+										      <td>3.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>DE 3 A 5 AÑOS</td>
+										      <td>60</td>
+										      <td>5.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>MAS DE 5 AÑOS</td>
+										      <td>72</td>
+										      <td>7.000.000</td>
+										    </tr>
+										  </tbody>
+										</table>
+							        </div>
+							        <!--END TABLE-->
+							        <div class="row">
+							        	<div class="col-12">
+							        		<hr class="separator">
+							        	</div>
+							        	<div class="col-12 col-md-6">
+							        		<h5 class="color_green text-center">Cálculo capacidad de pago</h5>
+							        		<p>(MESADA PENSIONAL - DESCUENTOS DE LEY)/2 - DEDUCCIONES - $11.000</p>
+							        	</div>
+							        	<div class="col-12 col-md-6">
+							        		<h5 class="color_green text-center">Observaciones</h5>
+							        		<ul>
+							        			<li>Aplica para compras de cartera y recogesaldos</li>
+							        			<li>Anexar 2 plantillas de reporte</li>
+							        			<li>No son sujeto de crédito las afiliaciones terminadas en: 104 a 149, 300, 400, 700, 800 Y 900</li>
+							        		</ul>
+							        	</div>
+							        </div>
+							      </div>
+							    </div>
+							  </div>
+
+							  <div class="card">
+							    <div class="card-header" id="heading_planta">
+							      <h5 class="mb-0">
+							        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#planta" aria-expanded="false" aria-controls="heading_planta">
+							          DE PLANTA
+							        </button>
+							      </h5>
+							    </div>
+							    <div id="planta" class="collapse" aria-labelledby="heading_planta" data-parent="#pagadurias">
+							      <div class="card-body">
+							        <h5 class="text-center">Grado: <br>Pensionados</h5>
+							        <div class="table-responsive">
+							        	<table class="table">
+										  <thead class="thead-dark">
+										    <tr>
+										      <th scope="col">Edad</th>
+										      <th scope="col">Plazo en meses</th>
+										      <th scope="col">Max. sin codeudor</th>
+										    </tr>
+										  </thead>
+										  <tbody>
+										    <tr>
+										      <td>ENTRE 18 Y 65 AÑOS</td>
+										      <td>96</td>
+										      <td>32.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>ENTRE 65 Y 69 AÑOS</td>
+										      <td>84</td>
+										      <td>27.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>ENTRE 70 Y 79 AÑOS</td>
+										      <td>72</td>
+										      <td>20.000.000</td>
+										    </tr>
+										    <tr>
+										      <td>ENTRE 80 Y 84 AÑOS</td>
+										      <td>60</td>
+										      <td>10.000.000</td>
+										    </tr>
+										  </tbody>
+										</table>
+							        </div>
+							        <!--END TABLE-->
+							        <div class="row">
+							        	<div class="col-12">
+							        		<hr class="separator">
+							        	</div>
+							        	<div class="col-12 col-md-6">
+							        		<h5 class="color_green text-center">Cálculo capacidad de pago</h5>
+							        		<p>(MESADA PENSIONAL - DESCUENTOS DE LEY)/2 - DEDUCCIONES - $15.000</p>
+							        	</div>
+							        	<div class="col-12 col-md-6">
+							        		<h5 class="color_green text-center">Observaciones</h5>
+							        		<ul>
+							        			<li>Aplica para compras de cartera y recogesaldos</li>
+							        			<li>Anexar claves y correo confirmado para verificar el PIN</li>
+							        		</ul>
+							        	</div>
+							        </div>
+							      </div>
+							    </div>
+							  </div>
+
 							<div class="row">
-								<div class="col-12 col-md-6">
-									<div class="label_yellow">
-										<div class="div_image">
-											<img src="img/tombstone.png" alt="" class="img-fluid">
-										</div>
-										<div class="div_text">
-											<h5>Fallecimiento por cualquier causa (empleados activos y pensionados)</h5>
-										</div>
-									</div>
-									<p>En caso de fallecimiento por cualquier causa, natural o accidental o por enfermedad (si la enfermedad es preexistente debe ser incluida en la declaración de asegurabilidad), el seguro cubrirá el saldo insoluto de la obligación (saldo a capital). Cubre homicidio y suicidio a partir del primer día.</p>
-
-									<div class="label_yellow">
-										<div class="div_image">
-											<img src="img/doctor.png" alt="" class="img-fluid">
-										</div>
-										<div class="div_text">
-											<h5>Enfermedades graves (empleados activos)</h5>
-										</div>
-									</div>
-									<p>El seguro pagará el saldo insoluto de la obligación (saldo a capital) cuando al asegurado le sea diagnosticada únicamente una de las siguientes enfermedades:</p>
-
-									<ul class="card_list">
-										<li>Cáncer</li>
-										<li>Insuficiencia Renal Crónica</li>
-										<li>Bypass Gástrico</li>
-										<li>Accidente Cerebro-vascular</li>
-										<li>Esclerosis múltiple</li>
-										<li>Trasplante de corazón, pulmones, hígado, páncreas, médula espinal o riñones</li>
-									</ul>
-
-									<p>Este amparo aplica a las enfermedades graves cuando estas sean diagnosticadas por primera vez habiendo transcurrido 120 días calendario desde la iniciación de la vigencia de la póliza.</p>
+								<div class="col-12">
+									<hr class="separator">
 								</div>
-								<div class="col-12 col-md-6">
-									<div class="label_yellow">
-										<div class="div_image">
-											<img src="img/patient-in-hospital-bed.png" alt="" class="img-fluid">
-										</div>
-										<div class="div_text">
-											<h5>Incapacidad total y permanente (empleados activos)</h5>
-										</div>
-									</div>
-									<p>En caso de incapacidad total y permanente por accidente o enfermedad (si la enfermedad es preexistente debe ser incluida en la declaración de asegurabilidad), el seguro cubrirá el saldo insoluto de la obligación (saldo a capital). Este amparo aplica cuando la Junta Médica dictamine la incapacidad total y permanente.</p>
-
-									<div class="label_yellow">
-										<div class="div_image">
-											<img src="img/patient-in-hospital-bed.png" alt="" class="img-fluid">
-										</div>
-										<div class="div_text">
-											<h5>Desempleo involuntario (empleados activos)</h5>
-										</div>
-									</div>
-									<p>El seguro cubre el riesgo de pérdida involuntaria del empleo del asegurado hasta por seis (6) meses, como consecuencia del despido por parte del empleador, ocurrido por alguna de las siguientes causas, siempre y cuando a la fecha de ocurrencia del desempleo tenga como mínimo seis (6) meses continuos laborando con el mismo patrono, y con contrato laboral escrito a término</p>
-
-									<ul class="card_list">
-										<li>Despido sin justa causa</li>
-										<li>Despido de empleados de libre nombramiento y remoción</li>
-										<li>Supresión de cargos por fusión, transformación o liquidación de entidades públicas</li>
-										<li>Declaratoria de insubsistencia</li>
-										<li>Cierre temporal o definitivo de la empresa</li>
-										<li>Trasplante de corazón, pulmones, hígado, páncreas, médula espinal o riñones</li>
+								<div class="col-12">
+									<ul class="small-text">
+										<li>Todos los créditos deben venir con 2 fotocopias de la cédula de ciudadanía legible, ampliada al 150% con firma número de cédula y huellas (Una rodada, la segunda de contacto y la tercera con parte de la falange), no se acepta copia de copia ni copia escaneada; No se aceptan contraseñas.</li>
+										<li>Para Ministerio de Defensa, debe anexar 2 fotocopias a color del carné de salud actualizado ampliadas al 150% con firma, número de cédula y huella.</li>
+										<li>Todos los créditos deben venir con los 2 últimos desprendibles de pago ORIGINALES, con firma y huella, en caso de que en el desprendible no se evidencien la totalidad de los descuentos se debe anexar un certificado.</li>
+										<li>Los certificados laborales deben contener la siguiente información: cargo, antigüedad, salario, tipo de contrato o resolución donde se evidencie el tipo de nombramiento.</li>
+										<li>No se tramitan créditos para interdictos ni menores de edad</li>
+										<li>Para el desembolso de excedentes de las compras de cartera los paz y salvos deben ser ORIGINALES; para el caso de los paz y salvos con firma digital se admitirán aquellos que provengan del correo corporativo de la entidad que lo expide.</li>
+										<li>Para todos los casos previo al desembolso los paz y salvos deben ser confirmados por la fábrica de crédito.</li>
+										<li>La libranza debe venir diligenciada en su totalidad, con tinta negra, sin tachones, enmendaduras o corrector; las huellas deben ser completamente legibles y no estar repisadas.</li>
 									</ul>
-
-									<p>La cobertura de desempleo involuntario se extenderá a los empleados con contrato a término fijo, según las condiciones que se señalan en la póliza. <br>*Según condiciones de la póliza y declaración de asegurabilidad que se pueden consultar aqui. </p>
 								</div>
 							</div>
 						</div>

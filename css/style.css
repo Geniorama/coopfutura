@@ -737,6 +737,10 @@ a.text_link:hover{
 	text-transform: capitalize;
 }
 
+td {
+	font-weight: normal;
+}
+
 /*collapse*/
 
 .nav-tabs {
