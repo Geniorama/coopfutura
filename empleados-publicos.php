@@ -170,6 +170,18 @@
 
 									<div class="label_yellow">
 										<div class="div_image">
+											<img src="img/patient-in-hospital-bed.png" alt="" class="img-fluid">
+										</div>
+										<div class="div_text">
+											<h5>Incapacidad total y permanente (empleados activos)</h5>
+										</div>
+									</div>
+									<p>En caso de incapacidad total y permanente por accidente o enfermedad (si la enfermedad es preexistente debe ser incluida en la declaración de asegurabilidad), el seguro cubrirá el saldo insoluto de la obligación (saldo a capital). Este amparo aplica cuando la Junta Médica dictamine la incapacidad total y permanente.</p>
+
+								</div>
+								<div class="col-12 col-md-6">
+									<div class="label_yellow">
+										<div class="div_image">
 											<img src="img/doctor.png" alt="" class="img-fluid">
 										</div>
 										<div class="div_text">
@@ -188,38 +200,6 @@
 									</ul>
 
 									<p>Este amparo aplica a las enfermedades graves cuando estas sean diagnosticadas por primera vez habiendo transcurrido 120 días calendario desde la iniciación de la vigencia de la póliza.</p>
-								</div>
-								<div class="col-12 col-md-6">
-									<div class="label_yellow">
-										<div class="div_image">
-											<img src="img/patient-in-hospital-bed.png" alt="" class="img-fluid">
-										</div>
-										<div class="div_text">
-											<h5>Incapacidad total y permanente (empleados activos)</h5>
-										</div>
-									</div>
-									<p>En caso de incapacidad total y permanente por accidente o enfermedad (si la enfermedad es preexistente debe ser incluida en la declaración de asegurabilidad), el seguro cubrirá el saldo insoluto de la obligación (saldo a capital). Este amparo aplica cuando la Junta Médica dictamine la incapacidad total y permanente.</p>
-
-									<div class="label_yellow">
-										<div class="div_image">
-											<img src="img/working-with-laptop.png" alt="" class="img-fluid">
-										</div>
-										<div class="div_text">
-											<h5>Desempleo involuntario (empleados activos)</h5>
-										</div>
-									</div>
-									<p>El seguro cubre el riesgo de pérdida involuntaria del empleo del asegurado hasta por seis (6) meses, como consecuencia del despido por parte del empleador, ocurrido por alguna de las siguientes causas, siempre y cuando a la fecha de ocurrencia del desempleo tenga como mínimo seis (6) meses continuos laborando con el mismo patrono, y con contrato laboral escrito a término</p>
-
-									<ul class="card_list">
-										<li>Despido sin justa causa</li>
-										<li>Despido de empleados de libre nombramiento y remoción</li>
-										<li>Supresión de cargos por fusión, transformación o liquidación de entidades públicas</li>
-										<li>Declaratoria de insubsistencia</li>
-										<li>Cierre temporal o definitivo de la empresa</li>
-										<li>Trasplante de corazón, pulmones, hígado, páncreas, médula espinal o riñones</li>
-									</ul>
-
-									<p>La cobertura de desempleo involuntario se extenderá a los empleados con contrato a término fijo, según las condiciones que se señalan en la póliza. <br>*Según condiciones de la póliza y declaración de asegurabilidad que se pueden consultar aqui. </p>
 								</div>
 							</div>
 						</div>

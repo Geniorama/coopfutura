@@ -762,12 +762,6 @@ a.text_link:hover{
 	padding: 2rem;
 	transform: scale(.9);
 	border: 1px solid #f2f2f2;
-	transition: all .5s;
-}
-
-.item_benefits:hover{
-	background: #f2f2f2;
-	transform: scale(1);
 }
 
 
@@ -778,12 +772,6 @@ a.text_link:hover{
 .item_benefits p{
 	font-weight: bold;
 	color: #044B17;
-
-}
-
-#beneficios.card.card_services{
-	overflow-y: inherit !important;
-	max-height: inherit;
 
 }
 
@@ -904,8 +892,6 @@ td {
 
 .card.card_services {
 	display: none;
-	max-height: 650px;
-	overflow-y: scroll;
 }
 
 .card_services::-webkit-scrollbar {

@@ -355,9 +355,7 @@
 					<ul class="nav justify-content-center align-items-center box-info">
 						<li class="nav-item">servicioalcliente@coopfuturagt.com</li>
 						<li class="bullet"></li>
-						<li class="nav-item">+57 (1) 3186342</li>
-						<li class="bullet"></li>
-						<li class="nav-item">Cra 123 # 20-45</li>
+						<li class="nav-item">+57 (1) 2186342</li>
 					</ul>
 				</div>
 			</div>
