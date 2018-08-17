@@ -32,7 +32,7 @@ $(document).ready(function() {
           });
 
 	$(".owl-single-blog").owlCarousel({
-          	items: 3, 
+          	items: 2, 
           	autoplay: true,
           	nav: true,
 
@@ -48,7 +48,7 @@ $(document).ready(function() {
                 },
                 // breakpoint from 768 up
                 768 : {
-                    items: 3
+                    items: 2
                     
                 }
             }

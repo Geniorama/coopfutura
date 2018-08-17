@@ -1,3 +1,61 @@
+	<section id="contacto" class="section bg_image bg_opacity">
+		<div class="container">
+			<div class="row text-center justify-content-center align-items-center">
+				<div class="col-12 container-float">
+					<h2 class="title burbuja title-float"><span class="color_yellow small-text">Contáctanos</span><br><span class="color_green">Ahora</span></h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<div class="spaced"></div>
+				</div>
+			</div>
+			<div class="row justify-content-between align-items-center">
+				<div class="col-12 col-md-5">
+					<p>En <strong>COOPFUTURA</strong> estamos dispuestos a resolver todas tus inquietudes en el menor tiempo posible. Escríbenos en el siguiente formulario y a la mayor brevedad un agente se comunicará contigo.</p>
+				</div>
+				<div class="col-12 col-md-5">
+					<form action="" class="form_contact">
+						<div class="form-row">
+							<div class="form-group col-12">
+								<label for="nombre"><img src="img/man-user.png" alt=""><span class="line_separator">|</span></label>
+								<input type="text" class="form-control" name="nombre" placeholder="Nombre" id="nombre">
+							</div>
+							<div class="form-group col-12 col-md-6">
+								<label for="correo"><img src="img/mail-black-envelope-symbol(1).png" alt=""><span class="line_separator">|</span></label>
+								<input type="email" class="form-control" name="correo" placeholder="Correo" id="correo">
+							</div>
+							<div class="form-group col-12 col-md-6">
+								<label for="telefono"><img src="img/icon.png" alt=""><span class="line_separator">|</span></label>
+								<input type="phone" class="form-control" name="nombre" placeholder="Teléfono" id="telefono">
+							</div>
+							<div class="form-group col-12">
+								<textarea name="" id="" class="form-control" placeholder="Mensaje"></textarea>
+							</div>
+							<div class="col-12 text-center">
+								<input type="submit" class="btn btn-secondary" value="ENVIAR">
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<div class="spaced"></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<ul class="nav justify-content-center align-items-center box-info">
+						<li class="nav-item">servicioalcliente@coopfuturagt.com</li>
+						<li class="bullet"></li>
+						<li class="nav-item">+57 (1) 2186342</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+
 <footer>
 		<div class="footer_top section">
 			<div class="container">
@@ -10,22 +68,13 @@
 						<h4 class="color_yellow">Post recientes</h4>
 						<div class="row">
 							<div class="col-6 col-md-4">
-								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
+								<a href="creditos-por-libranza-para-financiar-tus-suenos.php"><img src="img/blog/ImagenCoopfutura1.jpg" alt="" class="img-fluid thumbnail_blog"></a>
 							</div>
 							<div class="col-6 col-md-4">
-								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
+								<a href="mejor-opcion-credito.php"><img src="img/blog/Articulo2Coopfutura.jpg" alt="" class="img-fluid thumbnail_blog"></a>
 							</div>
 							<div class="col-6 col-md-4">
-								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
-							</div>
-							<div class="col-6 col-md-4">
-								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
-							</div>
-							<div class="col-6 col-md-4">
-								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
-							</div>
-							<div class="col-6 col-md-4">
-								<a href="#"><img src="img/blog/image-3.jpeg" alt="" class="img-fluid thumbnail_blog"></a>
+								<a href="educacion-financiera-para-la-vida.php"><img src="img/blog/Articulo3Coopfutura.jpg" alt="" class="img-fluid thumbnail_blog"></a>
 							</div>
 						</div>
 						
